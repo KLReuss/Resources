@@ -1,0 +1,465 @@
+WISCONSIN 
+Workforce Innovation
+and Opportunity Act
+
+ANNUAL REPORT
+
+Program Year 17
+July 1, 2017 – June 30, 2018
+
+WISC 
+NSIN 
+ 
+STATE OF WISCONSIN 
+DETW-12880-P (R.11/2018) 
+
+Department of Workforce Development Secretary’s Office 
+201 E. Washington Avenue P.O. Box 7946 Madison, WI 53707 Telephone: (608) 266-3131 Fax: (608) 266-1784 Email: sec@dwd.wisconsin.gov Scott Walker, Governor 
+Raymond Allen, Secretary 
+December 14, 2018 
+Ms. Christine Quinn Regional Administrator 
+U.S. Department of Labor -Employment and Training Administration John C. Kluczynski Federal Building 230 South Dearborn Street, 6'" Floor Chicago, IL 60604 
+Dear Administrator Quinn: 
+I am pleased to submit Wisconsin's Workforce Innovation and Opportunity Act (WIOA) Annual Report for Program Year 2017. 
+Wisconsin's workforce is thriving, and more people are off the sidelines and in the workforce than ever before. Program Year 2017 brought positive changes and challenges, but as you will see from the following report, Wisconsin has met those challenges and continued to build upon prior success. Under Governor Scott Walker's vision of one talent development system, the Wisconsin Department of Workforce Development continues to ensure our work is driven by employer demand and managed by strong agency partnerships, coordinated resources and efficiently serving customers. Wisconsin has many local best practices, proven by outcomes, and those best practices will continue to be identified, propagated and scaled to the regional and state level. 
+Talent development is economic development, and Wisconsin's talent development system is stronger than ever. We continue to build upon our accomplishments and move our workforce, and the entire state of Wisconsin, forward. 
+Sincerely, 
+
+Ray Allen Secretary Department of Workforce Development 
+
+Table of Contents 
+Introduction.................................................................................................................................................4 Governor Walker'sWorkforceInitiatives.................................................................................................5 Governor'sCouncilonWorkforceInvestment.........................................................................................6 WIOAImplementation................................................................................................................................8 WIOAProgram Management.................................................................................................................... 10 WIOATitleIPrograms.............................................................................................................................. 12 Wagner-Peyser Program 2017................................................................................................................. 15 VeteranEmployment Services................................................................................................................. 17 StatewideStrategiesfor Success.............................................................................................................. 18 PerformanceMeasurement andReporting............................................................................................. 19 PromisingPractices................................................................................................................................... 23 SuccessStories........................................................................................................................................... 24 
+
+Unemployment is at a record low; employment is up, and Wisconsin continues to make great strides in identifying and implementing innovative and dynamic workforce development strategies. 
+Under strategic direction from Governor Walker and the Governor's Council on Workforce Investment (CWI), the State has continued to enhance the services available to the current and future workforce: 
+• 
+Aligning and integrating the workforce and economic development strategies of the state; 
+
+• 
+Integrating service delivery through the development of a common intake system; and 
+
+• 
+Providing training opportunities for underserved populations. 
+
+
+This program year (PY) 2017 WIOA Annual Report Narrative provides a summary of Wisconsin's Title I Adult, Dislocated Worker, Youth and Wagner-Peyser programs from July 1, 2017 through June 30, 2018. This report provides a description of performance measures for the program year and discusses statewide strategies that will improve services for all job seeking clients and employers. In addition, this report fulfills the WIOA requirement to submit an Annual Statewide Performance Report Narrative as described in TEGL 5-18. 
+
+Governor'sReserveFund 
+WIOAallowsgovernorstoreserveupto15percentof thestate'sallotmenttofundinnovativeworkforce approachestosupportjobseekersfacingbarriers.WithguidancefromtheGovernor'sCouncilonWorkforce Investment(CWI),DWDhasusedthestateset-asidefundfor shorttermcustomizedtrainingprograms,specialized manufacturingcentersandmobilelabs. 
+Short Term CustomizedTrainingProgram:DWDawardedgrantstotrainveterans,peoplewithdisabilities,ex­offendersandpeopleonlong-termpublicassistanceinareascriticaltoadvancedmanufacturingandITcareers. Thegrantsareinpartnershipwithtechnicalcollegesandemployers.DWDawardedatotalof $1,082,667tofive awardeestoserveatotalof 131trainees.TheawardeesareCenter for Self Sufficiency,MAXIMUS,RacineCounty HumanServices,MilwaukeeAreaWorkforceFundingAllianceandWisconsinWorkforceDevelopmentAssociation. 
+SpecializedManufacturingCenters:Inresponsetotheunprecedentedgrowthof theadvancedmanufacturing industry,DWDisintheprocessof establishingtwosector centerstoaddresstherecruitment,trainingand attractionneedsof advancedmanufacturingemployers.DWDisworkingwithpartnerssuchasthetechnical colleges,workforceboards,localEDCs,andothers.Thesector centerswillcreateahigh-techenvironmentthat reflectstheinnovationdrivingtheindustrywhilehelpingemployersdeveloptalentpipelinesthroughcustomizable training,industryawarenessandeducationandtailoredjobservices. 
+Department ofCorrectionsMobileLabs:InpartnershipwiththeWisconsinDepartmentof Corrections(DOC), DWDisexpandingvocationalandemploymentopportunitiesfor offenders.DWDwillpurchaseAdvanced ManufacturingequipmenttobehousedatRedgraniteCorrectionalInstitution.Inmateswillparticipatein AdvancedManufacturingtrainingwhileincarcerated.RedgraniteCorrectionalispartneringwithlocalbusinesses whoarecommittedtohiringtraineesuponreleasefromprisonandcompletionof thetrainingprogram.The classroomspaceremodelhasbeencompletedandtheinstructor hasbeenhired. Trainingisslatedtobeginin January2019.Studentswillearna16creditIndustrialMaintenanceCertificateandwillthencontinueintoalonger programtoearnanIndustrialMaintenanceTechnicalDiploma. 
+
+The Governor's Council on Workforce Investment (CWI) is the federally mandated State entity under the Workforce Innovation and Opportunity Act (WIOA) that assists the Governor in developing innovative and dynamic approaches to further developing Wisconsin's workforce. Through Wisconsin's Executive Order #100, and as of 2015 Executive Order #152, the CWI is tasked with aligning Wisconsin's workforce and talent development initiatives and investments with its economic development strategies. The Governor appoints members of the Council in accordance with the requirements enumerated in 20CFR §679.110(b)(3) of WIOA. 
+Council,CommitteeStructureandResponsibilities 
+The Council is comprised of business leaders, state legislators, local elected officials, representatives from education, community-based organizations and labor representatives from across the state. Together, the CWI promotes a workforce development strategy that: 
+• 
+Anticipates employer labor needs while building and strengthening Wisconsin's workforce; 
+
+• 
+Supports the development of a highly-skilled labor force; and 
+
+• 
+Empowers individuals of all backgrounds, including disabilities and youth, to pursue and retain good paying careers. 
+
+
+According to the CWI bylaws and following a restructuring that occurred in March of 2017, the Council is currently compromised of four standing committees which provide a formalized structure for council members and workforce stakeholders to actively participate in the maintenance, support, and refinement of the system's activities. These committees are: 
+• 
+PartnershipDevelopmentCommittee: responsible for assisting in driving initiatives that ensure the building of workforce development systems that meet the needs of job seekers of any age and ability and employers throughout Wisconsin; 
+
+• 
+ResourceAlignmentCommittee: responsible for promoting an alignment of resources to create innovative workforce and educational partnerships to effectuate game-changing reforms for the skills required in high demand fields; 
+
+• 
+StrategicInitiativesCommittee: responsible for providing oversight and management expertise on the Council's strategic plan, developing and expanding strategies for partnerships in in-demand sectors and occupations, and suggesting and reviewing strategies to enhance Wisconsin's various workforce systems; and 
+
+• 
+WIOACommittee: responsible for assisting the Governor in carrying out his or her statutory requirements in compliance with federal WIOA guidelines as listed in 20 CFR §679.130. 
+
+
+The ExecutiveCommitteeis responsible for providing overall direction to the Council activities. 
+PY17Overview 
+In PY17, to fulfil the Council's obligation to align Wisconsin's workforce and talent development initiatives/investments with the state's economic development strategies, the CWI held a series of meetings across the state gathering stakeholder input on strategic recommendations to address the state's workforce development challenges and opportunities. This feedback was compiled and subsequently published in the 2018-2022 Strategic Plan, which will further assist the CWI in fulfilling their mission. The plan was approved by the CWI at the April 10, 2018 meeting and submitted to the Governor. 
+At the guidance of the WIOA Committee, the CWI also approved the two-year WIOA State Plan modification for Program Years 18 and 19, which was granted a period of public comment from late February to mid-March and was submitted to the US Department of Labor on March 15, 2018. 
+
+DWD Leadership 
+Wisconsin DWD Secretary Raymond Allen leads the state agency charged with building and strengthening Wisconsin's workforce. He was appointed to the position by Governor Scott Walker on January 21, 2016. 
+Secretary Allen directs the state talent development agency that has an annual budget of over $450 million, over 1,600 employees and six divisions: Employment and Training (DET), Operations, Equal Rights, Unemployment Insurance (UI), Worker’s Compensation (WC) and Vocational Rehabilitation (DVR). Located within the Office of the Secretary are the Office of the Chief Legal Counsel, the Communications Office and Office of Program Integrity. 
+WIOALeadershipTeam(WLT) 
+The WIOA Leadership Team (WLT) includes senior leaders from DWD divisions of DVR (Title IV), DET (Titles I & III, TAA and JSVG), and the Wisconsin Technical College System (Title II). The WLT met regularly during PY17, and continues to meet, to coordinate the implementation of WIOA among the combined state plan programs. 
+The WLT functionalizes the collaborative activities and maintains several cross-agency teams that work on WIOA details, including the Performance Advisory Committee (PAC). The PAC is a statewide committee tasked with advising the WLT on performance matters. The PAC is co-led by DWD-DET and DWD-DVR staff and includes representation from all combined state plan programs and local WDBs. 
+PlanningRegions 
+Per WIOA section 106(a)(2), the State shall identify which regions are comprised of one local area that is aligned with the region; which regions are comprised of two or more local areas that are (collectively) aligned with the region (referred to as planning regions); and which planning regions are interstate areas contained within two or more states. As required, Wisconsin identified two planning regions: Workforce Development Areas (WDA) 1, 2, & 3 and 4 & 5. 
+Table1.WisconsinLocalAreas 
+Local Areas  Name  Counties  
+WDA 1  Southeast  Walworth, Racine, Kenosha  
+WDA 2  Milwaukee  Milwaukee  
+WDA 3  WOW  Washington, Waukesha, Ozaukee  
+WDA 4  Fox Valley  Waupaca, Waushara, Winnebago, Calumet, Green Lake, Fond du Lac  
+WDA 5  Bay Area  Florence, Marinette, Oconto Menominee, Shawano, Outagamie, Brown, Manitowoc, Sheboygan, Kewaunee, Door  
+WDA 6  North Central  Vilas, Forest, Oneida, Lincoln, Langlade, Marathon, Wood, Portage, Adams  
+WDA 7  Northwest  Douglas, Burnett, Washburn, Sawyer, Rusk, Price, Taylor, Ashland, Iron, Bayfield  
+WDA 8  West Central  Polk, Barron, St, Croix, Dunn, Chippewa, Clark, Eau Claire, Pepin, Pierce  
+WDA 9  Western  Buffalo, Trempealeau, Jackson, La Crosse, Monroe, Vernon, Crawford, Juneau  
+WDA 10  South Central  Marquette, Sauk, Columbia, Dodge, Dane, Jefferson  
+WDA 11  Southwest  Rock, Green, Lafayette, Grant, Iowa, Richland  
+
+In May 2018 a meeting was held to bring together the regional planning areas to provide an opportunity to work through the challenges and concerns related to regional planning. The State will be issuing specific planning guidelines in PY18. 
+JobCenterCosts/PeriodicReconciliationDatabase 
+During the spring of 2017, DWD Facilities staff and DET created the job center costs database that was used by local workforce board staff to negotiate their PY17 MOUs and IFA/Shared Cost budgets. WIOA sec. 121(c)(2)(A) and 20 CFR 678.500(b), 34 CFR 361.500(b), and 34 CFR 463.500(b) requires local workforce boards to negotiate Memorandums of Understanding (MOU) and Infrastructure Funding Agreements (IFA) annually. This system was created to help local areas streamline the tracking of infrastructure and other shared One-Stop delivery costs. The database also standardized the budgets, and forms such as and the Memorandum of Understanding (MOU), the Infrastructure Funding Agreement (IFA), and Resource Sharing Agreement (RSA). Phase I used Microsoft Access to house and organize the data and SharePoint as an external network to allow local WDBs to participate on the state network to share, modify and approve documents. Currently, 12 other states have adopted this tool. 
+Phase II will transition the current WIOA Microsoft Access Job Center Cost database to a web-based user interface and will include the ability for local workforce board staff to conduct periodic reconciliation and upload all of their MOU/budget documents. Once this is developed, we will have an online tool that will allow us to complete an entire MOU/IFA/RSA cycle from development of the agreements through reconciliation of the agreed upon budgets. To begin planning for the periodic reconciliation piece, DWD-DET implemented the WIOA Shared Costs project in the spring of 2018. Project Managers, facilitated a team to describe the problem, objectives and developed a proposed method for reconciliation. 
+DataIntegrationandCommonIntake 
+WIOA seeks to more fully integrate states' workforce and talent development systems, including common intake and integrated data between partners, to better serve employers and job seekers. DWD in partnership with the Wisconsin Technical College System is building a "common intake" system using an integrated and interoperable platform to support efficient co-case management, increased leveraging of program resources, appropriate program referrals, and improved customer experience for WIOA participants. The project includes IT system solutions, including an identity resolution tool, and the development of cross agency policy for training and data governance. 
+During the summer of 2018 two focus groups were held to better understand how WIOA programs currently partner, will partner in the future and what data elements should be considered as part of the common intake and integrated data solution. Teams were identified to work on developing the policy and IT solution: Policy, Governance and Training, Messaging and Professional Development. 
+StateWorkforceSystemChallenges 
+The State believes the Youth Credential Attainment Rate will become an increasingly challenging indicator to meet in future years. The population of out of school youth exits continue to increase since WIOA mandated out of school youth priority of service expenditure requirement was implemented. During PY17, in-school youth comprised 51.7 percent of the indicator and had a credential attainment rate of 77.3 percent. Out of school youth made up 48.3 percent of the indicator with its participants having a 61.5 percent credential attainment rate. The PY2018 projected population for Wisconsin is expected to be 71.3 percent out of school youth and 28.7 percent in school youth. Currently, out of school youth have credential attainment at 48.7 percent and the in-school youth at 
+65.3 percent. This significant population shift has a crucial and negative impact upon the Credential Attainment Rate. The State plans to focus technical assistance and training efforts on credential attainment during PY18 to mitigate this trend. 
+Waivers 
+During PY17, DWD did not apply for or receive waivers from the U.S. Department of Labor for the implantation of WIOA. 
+
+PY17On-siteMonitoringHighlights 
+Annual on-site monitoring of WIOA Title I Programs, managed by the 11 local workforce development boards (WDBs), was conducted from July 2017 through April 2018. On-site coordinated monitoring included a comprehensive review for program, fiscal and civil rights/equal opportunity compliance. 
+Monitoring of Wisconsin's 11 WDBs included Governance; Eligibility and Services; Documentation; Policy Review; Performance Measures; Participant File Review; Training and Supportive Services; Oversight of Service Providers; Civil Rights Compliance and Equal Opportunity Nondiscrimination; Real Property Review, Equipment, Procurement, Monitoring and Contracts, Internal Controls, Written Policies and Procedures, Audits and Audit Resolution, Budget Controls, Personnel; Cash Management; Fiscal Reporting; Cost Allocation/Indirect Cost Rate; and Voucher Testing. 
+Local workforce development boards received a report summarizing the review and were required to respond to any findings and/or areas of concern. Common findings and areas of concern were compiled and shared with DWD Management staff to help identify training needs. Career planner trainings were held in November 2017 throughout the state to assist WDB staff in areas needing technical assistance. 
+The following are the totals from the PY17 annual on-site monitoring for the 11 WDBs: 
+• 96 Findings 
+• 
+177 Areas of Concern 
+
+• 
+90 Positive Practices 
+
+
+At the end of PY17 monitoring, a summary including findings or areas of concern identified by the monitoring team in more than three workforce development areas was sent to the local workforce development boards. The summary report also included all positive practices noted throughout the state. 
+Evaluations 
+During PY17, DWD significantly expanded its capacity to conduct evaluations. The completion of the Job Center System – Refactored (JCS-RED) project provides DWD staff with five years of wage data for all Title I, Title III and TAA participants as well as reportable individuals. Additionally, DWD-DET intends to increase our evaluation capacity during PY18. Ongoing research during PY17 included: 
+• 
+Analysis of Dislocated Worker Earnings Outcomes (Formal report to be published) 
+
+• 
+Evaluation of the performance results and outcomes from the DET Short Term Training Grant 
+
+
+The WIOA Performance Advisory Committee (PAC) continues to coordinate and develop research projects. The PAC is comprised of members from each core program, partner program and local workforce development boards. 
+The following evaluation projects were completed during PY17: 
+• Title II AEFLA quantitative research and statistical analysis to explore associations between postsecondary course success and contextualized learning that integrates ABE/ESL training with occupational skill training: https://mywtcs.wtcsystem.edu/student-success/wtcs-student-success-center 
+Wisconsin did not identify any continuous improvement strategies during PY17. The development of the JCS RED Business Intelligence Warehouse and a baseline credential attainment rate reporting during WIOA provide the grounds for further research on successful workforce development initiatives during PY18. 
+CustomerSatisfaction 
+Wisconsin one-stop centers are focused on customer satisfaction, for both individuals and businesses seeking assistance. To ensure high-quality, integrated service, one-stop partners regularly assess and evaluate program delivery, center processes and systems. 
+Surveys are distributed through either paper or electronic methods. In some areas, individuals visiting job centers complete an intake survey via iPad kiosks to begin the initial assessment/eligibility screening process. 
+Thousands of individuals and businesses were surveyed during the program year. Highest response rates occur (up to 95%) when paper surveys are distributed at the time of the activity (e.g., job fair or workshop). Electronic surveys typically receive between 20-30% response rate. 
+Employers are surveyed on paper after each onsite recruitment event and job fair, often with a follow-up survey delivered electronically after the event to capture hiring outcomes. In addition, once a job posting listed on the public labor exchange website has closed, an electronic survey is sent to the employer to provide feedback on the system and report hiring outcomes. 
+Survey results are compiled, reviewed and shared in one-stop partner meetings, program staff meetings, interagency trainings and communications, workforce development board meetings, etc., depending on the activity surveyed. If a specific individual or program is identified as providing outstanding service, those comments are also generally included in agency and one-stop partner internal and external newsletters. 
+Continuous improvement plans are included in local WIOA plans and are used in the one-stop certification process. Examples of continuous improvements made in direct response to customer feedback include offering wi-fi in a job center, altering the hours of job fairs to better suit employers' and job seekers' schedules, job fair registration processes, resource room customer flow, workshop offerings based on customer request. 
+
+TheStatereceivedover $35millioninWIOATitleIformula fundingfromtheU.S.Departmentof Labor (USDOL) in PY17.Thisrepresenteda9.67percentdecreaseinYouth,10.45percentdecreaseinAdult,and10.45percent decreaseinDislocatedWorker fundingfromPY16. 
+Eighty-fivepercentof thePY18YouthandAdultformula fundsand65percentof theDislocatedWorker (DW) formulafundswereallocatedtotheState's11workforcedevelopmentboards(WDBs) fortheadministrationand implementationof their respectivelocalprograms.Fifteenpercentof totalfundingwasreservedfor theState's administrativeandstatewideactivities.TheStatealsoreserved25percentof itsDWfundingfor statewiderapid responseactivitiesand"additionalassistance."TheStateusedadditionalassistancegrantstosupplementaWDB's formulafunding,increasingitscapacitytoprovideDWprogramservicestoworkerslaidoff fromlarger dislocation events. 
+PY 2017 WIOA Funding 
+$14,000,000 $12,000,000 $10,000,000 $8,000,000 $6,000,000 $4,000,000 $2,000,000 $0 
+$11,985,441 34.2%  $10,320,191  29.4%  $12,769,724 36.4%  
+
+
+
+
+
+
+
+
+Youth Adult Dislocated Worker 
+RapidResponseData 
+TheDepartmentof WorkforceDevelopment,Divisionof EmploymentandTraining(DWD-DET) usestheRapid ResponseEventTrackingSystem(RRETS) totrackalllayoff eventsandrapidresponse(RR) employer andworker servicesthroughoutthestate.DWD-DETanditspartnersatthestateandlocallevelsenter informationintoRRETS, allowingfor amorecompletepictureof Wisconsin'slayoff andRRactivities.DuringPY17,318newlayoff events wererecordedinRRETS,withatotalof 12,335affectedworkers.Of theseevents,172werefromtheretail/trade industryand51werefromthemanufacturingindustry.ThelocalRRteamsprovidedatotalof 1,223RRservicesin responsetotheseevents. 
+DWD-DETSupportedLocalRapidResponseServicesthroughGrants 
+Eachyear,DWD-DETreservesaportionof theState'sRRfundsfor AnnualAllotment,AdditionalAssistanceand Dislocationgrants.EachlocalWDBreceivesanAnnualAllotmentgrantbasedonaformula.AdditionalAssistance andDislocationgrantsareavailableonafirst-come,first-servedbasis.DuringPY17,DWD-DET awardedatotalof $2,455,002acrossalltypesof RRgrants. 
+AnnualAllotmentgrantssupport the building and maintaining of the local WDBs' RR programs, including the costs of staffing, planning, coordinating and providing RR activities. During PY17, DWD-DET provided a total of $1,500,002in Annual Allotment grants to Wisconsin's 11 WDBs. Each WDB's allocation is based on a formula that uses eight indicators of historical layoff activity to predict future RR service demands. Four of the indicators relate to RRETS data and the other four relate to labor market information. PY17 grant awards ranged from $67,944 to $245,411. 
+AdditionalAssistancegrants supplement a local WDB's Title I-B Dislocated Worker formula funding allotments when significant layoffs place unanticipated demand on existing formula resources. Funds must be used towards Dislocated Worker Program services (i.e. career, training and supportive services) for eligible participants from a specific dislocation event. 
+During PY17, DWD-DET issued four Additional Assistance grants: 
+• 
+West Central Wisconsin Workforce Development Board received $31,900to serve workers from Lutheran Homes; 
+
+• 
+Workforce Development Board of South Central Wisconsin received $320,000to serve workers from Kraft/Oscar Mayer; and 
+
+• 
+Employ Milwaukee, the WDB in Milwaukee County received $372,240to serve workers from JC Penny, and $159,500to serve workers from the Bon-Ton stores. 
+
+
+Dislocationgrantsprovide local WDBs funding to supplement Annual Allotment grants. This funding is for staffing and other costs related to the planning, coordination and provision of local RR activities for specific dislocation events affecting 25 or more workers. There is a $10,000 cap per Dislocation grant. 
+During PY17, DWD-DET issued eight Dislocation grants: 
+• 
+West Central Wisconsin Workforce Development Board received $10,000to serve workers from Gordy's Inc.; 
+
+• 
+Waukesha-Ozaukee-Washington (WOW) Workforce Development Board received $1,496 to serve workers from Harley Davidson, $9,977 to serve workers from Lake Country Foods, $9,999to serve workers from GE Power and $9,988to serve workers from Bon-Ton stores; 
+
+• 
+Bay Area Workforce Development Board received $9,900to serve workers from Appleton Coated; and 
+
+• 
+Workforce Development Board of South Central received $10,000to serve workers from the Bon-Ton stores and $10,000to serve workers from Toys "R" Us and Babies "R" Us. 
+
+
+DWD-DETSupportedRapidResponseServicesthroughInnovation 
+DWD-DET supported local WDB RR services with the following innovations during PY17: 
+RRETSDashboards:DWD-DET added Tableau dashboards to RRETS that use maps, tables, and graphs to display RR event data for a designated location (statewide, county(ies), or WDA(s)) and/or NAICS code. 
+RRMobileLabs:DWD-DET provides mobile labs consisting of laptops, wireless printers and routers for local RR teams to use for on-site transition centers and workshops. In PY17, DWD-DET expanded the mobile labs by providing 44 new laptops, bringing the statewide total to 87. 
+DWSurveyredesign:DWD-DET began redesigning its Dislocated Worker Survey which is administered as part of RR activities. Using input from its statewide RR network, DWD-DET is working to improve clarity of questions, the quality of the information gathered and the method of survey distribution. 
+NationalDislocatedWorkerGrants 
+On October 1, 2016, DWD-DET received a National Dislocated Worker Grant for the Reemployment & System Integration Dislocated Worker Grant project. During PY17, DWD-DET made significant strides in finalizing and launching several tools for both job seekers and career planners. 
+DWD-DET launched three new tools on MyJCW for job seekers: the budgettool, the careerexplorationtooland the actionstepstool. The budget tool helps job seekers create and share budgets, displays budget graphs and allows multiple budgets to compare scenarios such as taking one job over another or going back to school. Users can add specific time elements to budget line items for more accurate planning, as well as to show how life events such as starting and stopping unemployment insurance, or the birth of a child, affect the individual's budget. The career exploration tool helps job seekers search for occupations of interest, explore wages and typical tasks, education and training requirements for a specific occupation, view current job openings by county and take a job fit review test to see how their skills align with one or more desired occupations. The action steps tool helps job seekers make a comprehensive list of important tasks and activities. Users can prioritize and track their activities to help them stay organized while searching for a new job. 
+Career planners have access to these new job seeker tools through a new application called the Comprehensive Employment Planning Toolkit (CEPT). Through CEPT, career planners can now help participants work with their budgets, assign tasks in the action steps tool and leverage the participant's work in the career exploration tool to develop and electronically sign off on Individual Employment Plans. An updated version of the Self-Sufficiency Calculator was also created in CEPT for career planners. 
+DWD-DET will continue to enhance these tools during the remaining grant period and create training videos for career planners and outreach videos for job seekers. 
+
+BusinessServices 
+During PY17, DWD's Bureau of Job Service (Job Service) fully implemented the WIOA Effectiveness in Serving Employers Performance measures. The internal employer services application (JCW Business) was enhanced and new services added to align with WIOA. Wisconsin selected Employer Penetration and Repeat Customer Business as the two pilot measures. 
+• 
+Employer Penetration rate: 9.8 percent 
+
+• 
+Repeat Business Customer rate: 71.4 percent 
+
+• 
+Internal JCW job postings: 253,872 (representing 543,260 job openings) 
+
+• 
+External (trusted partner) job postings: 458,199 (WI does not track job openings from external sources) 
+
+
+Wisconsin also convened a workgroup to explore additional Business Services performance measures. The group presented five additional measures that will be tracked from existing data. 
+Additional business services provided during PY17 included: 
+• 
+Coordinated a wide range of specialized services to businesses, including assistance with registration, job order processing, career fair involvement, tax credit assistance, OJT, on-site recruitment facilities and applicant-pre-screening services. 
+
+• 
+Health Care Industry page on JCW was released in PY17. 
+
+• 
+Increased emphasis on businesses recruiting needs which increased engagement and utilization of Job Service employer benefits with JCW, on-site recruitments and specialized recruitments with identified industry groups. 
+
+
+JobSeekers 
+PY17 continued with a historically low unemployment rate in Wisconsin. While the overall number of job seekers has trended down, the individuals who are using our services both online and in-person often have a number of barriers to employment that requires more personal and intensive staff time. 
+Our Job Service Call Center fielded more than 30,000 calls during PY17. Over the 12-month period, new job seeker registrations totaled 203,406, which reflects the low unemployment rate. 
+Job Service coordinated numerous job fairs and career expos throughout the State during the year. Two large-scale Career Expos were held in Green Bay and Milwaukee, with a total of 301 employers and just over 1,000 job seekers in attendance. Career Expos included applicant pre-screen ticketing for event admission. Dozens of additional job fairs were held statewide, as well as more than 1,000 onsite employer recruitments held at local Job Centers. 
+Job Service continued to provide a vast array of job seeking workshops throughout the State, with topics that ranged from computer literacy, social media, resume development and application / interviewing skills, to in-depth Career Counseling activities and events. Our licensed Career Counselors conducted more than 1,500 individual career counseling sessions and reached 237 job seekers in group sessions. 
+Re-EmploymentServices 
+In PY17, Wisconsin continued its innovation of the Re-Employment Service and Eligibility Assessment (RESEA) program. Highlights included: 
+• 
+Wisconsin is believed to be the only state in the nation to allow RESEA claimants to schedule both their initial session and their subsequent appointment completely online. 
+
+• 
+More than 17,500 RESEA claimants were served in initial RESEA sessions during PY17. 
+
+• 
+Hosted Illinois RESEA and UI colleagues for a three-day visit so they can learn about our RESEA systems and practices. 
+
+
+TradeAdjustmentAct 
+DET administers the Trade Adjustment Assistance (TAA) program and works closely with local workforce boards to serve dislocated workers who are certified as being affected by foreign trade. During PY17, 13 petitions were certified as trade-eligible and 1,018 active participants were served. 
+MigrantSeasonalFarmworkerServices 
+In Wisconsin, services to Migrant and Seasonal Farmworkers (MSFW) follow both federal and state laws. Job Service provided staff to support MSFW employers and job seekers following federal regulations. The Bureau also provides staff to enforce the Migrant Labor Law in the state. 
+As required in federal regulations, staff members are assigned to conduct outreach to MSFWs across the state who are not being reached by normal intake activities conducted by local job center offices. We also provide services in person through the Job Centers, website and trilingual call center. We currently have five outreach workers providing outreach services. 
+In PY17: 
+• 
+3,412 MSFW outreach contacts 
+
+• 
+86 migrant labor camps were certified. 
+
+• 
+62 post-occupancy inspections were conducted. 
+
+• 
+62 crew leaders certified 
+
+• 
+19 field sanitation inspections were conducted. 
+
+• 
+Foreign Labor Certification (FLC) Program runs from October to September. 
+
+
+o 79 H-2A applications were received and processed.  1,557 workers approved 
+JobCenterInnovations 
+During PY17, Job Service saw significant movement on a long-standing project of establishing an onsite job center within a correctional facility. The job center in the Oakhill Correctional Institution, a minimum-security facility in south central Wisconsin, opened in early PY18. Significant IT programming and policy work from both DWD and the Wisconsin Department of Corrections went into the plan, with support from the Lt. Governor's office. 
+In addition, a Request for Proposal for a mobile job center that would travel throughout the state was opened for bid, with a signed contract to begin construction expected in early 2019. 
+
+The mission of DWD's Office of Veteran Employment Services (OVES) is to "Advance veterans into the workforce through targeted business engagement and effective employment services." OVES ended PY17 exceeding all DOL negotiated performance standards. In PY14, the roles of Local Veterans Employment Representative (LVER) and Disabled Veterans Outreach Program (DVOP) staff were refocused by the DOL Veterans Employment and Training. LVER staff are fully engaged within the Job Service and Local Business Service teams and promote veteran hiring to Wisconsin employers and employing agencies. They assist in the organization of job fairs and hiring events and facilitate employer workshops that highlight the value veterans bring to the workforce. 
+The DVOP staff provides services only to veterans that are identified to have significant barriers to employment. The Wisconsin Job Center staff utilizes a triage tool to determine the needs of veterans at registration. Once the registration process identifies a significant barrier to employment, the veteran is referred to DVOP staff for intensive services. The DVOP completes a comprehensive assessment; develops an individualized employment plan; and conducts the follow-up necessary to assist the veteran gain employment. 
+During PY17 1,523 Veterans with a significant barrier to employment (SBE) received staff assisted services by DVOP staff within the Wisconsin Job Center and affiliated Offices. 
+• 
+591 SBE veterans had campaign badges. 
+
+• 
+161 SBE veterans were Disabled veterans. 
+
+• 
+492 SBE veterans were Special Disabled. 
+
+• 
+79 SBE were recently separated from military service. 
+
+• 
+201 were female veterans. 
+
+• 
+2 were homeless veterans. 
+
+• 
+1,208 veterans or 79 percent received intensive services and case management follow-up services. 
+
+• 
+390 veterans were referred to employment. 
+
+
+
+WisconsinCareerPathways 
+As the needs of Wisconsin’s current and future workforce continue to evolve, so too has the work surrounding the advancement of the career pathways methodology. In 2014, the Wisconsin Technical College System (WTCS) was awarded a U.S. Department of Labor Trade Adjustment Assistance Community College and Career Training (TAACCCT) grant to advance and scale career pathways in Wisconsin. Concluding in September 2018, the project has allowed the WTCS and its public partners to achieve significant progress in designing and building career pathway programs. 
+Each college within the WTCS has taken significant steps to strengthen and modify a variety of college policies and practices affecting career pathway development and operations to meet the needs of students and employers alike. As such, 11 of the 16 grant-funded Career Pathway Coordinator personnel have been retained by their college in a full-time capacity with all 16 colleges actively committed to sustaining the progress made over the life of the grant including an enhanced data infrastructure to establish outcome metrics, greater alignment with local and regional partners including job centers and workforce boards and a commitment to student success within the pathway. Career Pathway expansion under the life of the grant has created a solid foundation for increased focus on student success by creating an environment which can embrace and harness the complimentary approach to Career Pathways; Guided Pathways. The blend of the two approaches will ensure that the WTCS continues to meet the needs of Wisconsin’s current and future workforce. 
+During the life of the TAACCCT grant, the WTCS has established and facilitated the Wisconsin Pathways Committee (WPC). Consistent with Wisconsin’s strategies for delivering a results-driven talent development system, the WPC has continued to provide a forum to share information, assure alignment and strengthen collaboration across public partners to further build and improve the pathways system in Wisconsin. The WPC has engaged an increasing number of public partners with one another in a continuous conversation to ensure alignment and coordination within the framework of Wisconsin’s goals for a talent development system. The WPC plans to add additional public partners to increase the depth and breadth of alignment across organizations. Each member organization of the WPC remains committed to sustaining the evolution and growth of the Committee to support and accelerate Wisconsin’s talent development strategy. 
+
+EffectivenessinServingEmployers 
+In accordance with the Department of Labor and Education pilot in the Joint Information Collection Requirement, Wisconsin selected two of the three proposed indicators of performance for reporting in PY16 and PY17. The selected indicators were: 
+• 
+Employer Penetration Rate: 9.8 percent (17,045/173,229) 
+
+• 
+Repeat Business Customers: 71.4 percent (3,487/4,882) 
+
+
+Milestones: 
+• 
+Wisconsin successfully consolidated the reporting of business services to a single system, Job Center of Wisconsin Business (JCWB) 
+
+• 
+All programs and local areas have received training on the new system 
+
+• 
+Job Center System – Refactored (JCS-RED) Business Intelligence Warehouse became available providing business service metrics. 
+
+
+PerformanceAccountabilitySystem 
+Wisconsin Title I and III programs exceeded 13 of the 14 negotiated indicators of performance during PY2017. The lone indicator that was met, not exceeded, was the Dislocated Worker Credential Attainment Rate. 
+The state's Performance Advisory Committee (PAC) is the forum for the state's core and combined WIOA State Plan partners collaborate in the development and delivery of technical assistance and training. In response to these shortcomings during PY 2017, the state's performance staff will provide Credential Attainment Rate technical assistance and training for local and statewide partners through the "WIOA Performance Friday" webinar series. 
+CommonExitPolicy:Wisconsin's common exit policy is defined in Wisconsin's Workforce Innovation & Opportunity Act (WIOA) Titles I-A and I-B Policy & Procedure Manual Chapter 11.4. The Employment Training Administration funded programs in Wisconsin's Common Exit are: 
+o 
+Title IB Adult 
+
+o 
+Title IB Dislocated Worker 
+
+o 
+Title IB Youth 
+
+o 
+National Dislocated Worker Grants 
+
+o 
+Title III Wagner-Peyser Employment Services 
+
+o 
+Jobs for Veterans State Grant (JVSG) 
+
+o 
+Trade Adjustment Assistance Act of 1974 
+
+
+PY16-17TitleILocalAreaNegotiatedPerformanceLevels: During July 2016, Wisconsin DWD successfully set local negotiated levels of performance for PY2016 and PY2017 with the 11 local workforce development areas. The state used the statistical adjustment model as populated by Wisconsin DWD, past performance, continuous improvement and optimal return on investment. Wisconsin DWD determined past performance using a methodology to project performance on the WIOA primary indicators of performance using the data available from the WIASRD. The exercise in projecting performance proved valuable by accurately predicting most indicators of performance for both the state and local area PY 2017 results. The results are in Table 1. 
+Table2.PY16NegotiatedLevelsofPerformance 
+PY 16  Adult  Adult  Adult  Adult  Dislocated Worker  Dislocated Worker  Dislocated Worker  Dislocated Worker  Youth  Youth  Youth  
+WDA  Q2 Unsubsidized Employment  Q4 Unsubsidized Employment  Median Earnings  Credential Attainment Rate  Q2 Unsubsidized Employment  Q4 Unsubsidized Employment  Median Earnings  Credential Attainment Rate  Q2 Employment/ Education  Q4 Employment/ Education  Credential Attainment Rate  
+1  76%  74%  $4,800  60%  77%  76%  $7,000  58%  70%  63%  65%  
+2  65%  62%  $4,000  60%  70%  70%  $6,100  50%  60%  63%  60%  
+3  80%  75%  $5,500  60%  85%  83%  $7,500  60%  67%  70%  60%  
+4  75%  70%  $4,800  60%  80%  80%  $6,700  65%  67%  65%  60%  
+5  75%  75%  $4,900  60%  83%  83%  $7,000  65%  70%  67%  60%  
+6  80%  75%  $5,500  60%  80%  80%  $7,200  70%  70%  64%  65%  
+7  80%  75%  $5,500  57%  85%  80%  $5,800  70%  70%  70%  70%  
+8  80%  75%  $4,300  58%  85%  83%  $5,980  66%  72%  67%  62%  
+9  75%  70%  $4,000  59%  80%  80%  $6,000  60%  68%  65%  68%  
+10  80%  75%  $5,000  60%  85%  83%  $7,000  70%  75%  70%  70%  
+11  75%  71%  $4,100  55%  78%  77%  $7,000  65%  65%  60%  70%  
+State  75%  71%  $5,000  60%  80%  79%  $7,000  65%  74%  72%  68%  
+
+Wisconsin DWD allowed renegotiation of PY17 levels upon request. The state successfully renegotiated local levels of performance using the Department of Labor populated local statistical adjustment model, past performance, continuous improvement and optimal return on investment. The results are in Table 2. 
+Table3.PY17NegotiatedLevelsofPerformance 
+PY 17  Adult  Adult  Adult  Adult  Dislocated Worker  Dislocated Worker  Dislocated Worker  Dislocated Worker  Youth  Youth  Youth  
+WDA  Q2 Unsubsidized Employment  Q4 Unsubsidized Employment  Median Earnings  Credential Attainment Rate  Q2 Unsubsidized Employment  Q4 Unsubsidized Employment  Median Earnings  Credential Attainment Rate  Q2 Employment/ Education  Q4 Employment/ Education  Credential Attainment Rate  
+01  76%  74%  $4,800  60%  77%  76%  $7,000  58%  70%  63%  65%  
+02  65%  62%  $4,000  60%  70%  70%  $6,100  50%  60%  63%  60%  
+03  80%  75%  $5,500  60%  85%  83%  $7,500  60%  67%  70%  60%  
+04  75%  70%  $4,800  60%  80%  80%  $6,700  65%  67%  65%  60%  
+05  76%  76%  $4,900  60%  84%  84%  $7,000  65%  73%  69%  62%  
+06  80%  75%  $5,500  60%  80%  80%  $6,800  70%  70%  64%  65%  
+07  80%  75%  $5,500  57%  85%  80%  $5,800  70%  70%  70%  70%  
+08  78%  73%  $4,300  58%  85%  83%  $6,500  66%  75%  70%  65%  
+09  75%  70%  $4,000  59%  80%  80%  $6,000  60%  64%  65%  64%  
+10  80%  75%  $5,000  60%  85%  83%  $7,000  70%  75%  70%  70%  
+11  75%  71%  $4,100  55%  78%  77%  $7,000  65%  65%  60%  70%  
+State  75%  71%  $5,000  60%  80%  79%  $7,000  65%  74%  72%  68%  
+
+
+For PY17, Wisconsin Title I programs exceeded or met all 11 negotiated indicators of performance. The following tables present a summary of Wisconsin's PY17 WIOA performance for the Title I Adult, Dislocated Worker, and Youth programs and Wagner-Peyser. 
+Table4.PY17WIOAIAdultPerformance 
+Indicator  Negotiated  Actual  Result  Denom.  
+Q2Employment  75.0%  79.1%  Exceed  2096  
+Q4Employment*  71.0%  79.6%  Exceed  1046  
+MedianEarnings  $5,000  $5,718  Exceed  1657  
+CredentialAttainmentRate*  60.0%  62.3%  Exceed  579  
+MeasurableSkillGain  Baseline  37.3%  N/A  1541  
+
+*6 months after exit 
+Table5.PY17WIOAIDislocatedWorkerPerformance 
+Indicator  Negotiated  Actual  Result  Denom.  
+Q2Employment  80.0%  83.0%  Exceed  2263  
+Q4Employment*  79.0%  83.4%  Exceed  1183  
+MedianEarnings  $7,000  $7,896  Exceed  1879  
+CredentialAttainmentRate*  65.0%  62.0%  Meet  524  
+MeasurableSkillGain  Baseline  44.3%  N/A  898  
+
+*6 months after exit 
+Table6.PY17WIOAIYouthPerformance 
+Indicator  Negotiated  Actual  Result  Denom.  
+Q2Employment/Education  74.0%  81.6%  Exceed  952  
+Q4Employment/Education*  72.0%  82.0%  Exceed  518*  
+MedianEarnings  Baseline  $3,452  N/A  725  
+CredentialAttainmentRate*  68.0%  69.7%  Exceed  350*  
+MeasurableSkillGain  Baseline  31.5%  N/A  1186  
+
+*6 months after exit 
+Table7.PY17Wagner-PeyserPerformance 
+Indicator  Negotiated  Actual  Result  Denom.  
+Q2Employment  64.0%  74.6%  Exceed  18777  
+Q4Employment*  62%  74.9%  Exceed  9131*  
+MedianEarnings  $5,000  $5,9333  N/A  14008  
+
+*6 months after exit 
+
+Throughout annual monitoring visits, we identified several promising practices. A few of these are recognized here along with some of our notable success stories. 
+EmployMilwaukee:Seven sector-specific Industry Advisory Boards (IABs) were engaged throughout the year, increasing the influence of the private sector and serving as a pipeline to WDB membership. These IABs design industry specific recruitment events and provide expert reviews on training provider applications, ensuring that local operations are demand-driven. As a result of these IAB recommendations, unsubsidized job placements increased by 27.2 percent and unsubsidized wages increased by 16.5 percent in PY17. [WDA 2 – Employ Milwaukee] 
+FoxValleyWorkforceDevelopmentBoard:The Fox Valley Workforce Development Board has partnered with two high schools to offer Job Center Services for one class period a week. Job Center/WIOA staff go onsite to the school to deliver basic Title III career services like resume writing, Job Center of Wisconsin Registration, interview preparation, etc. They are also able to refer students to the traditional Job Centers as well as other partner programs. Students can schedule themselves or be referred by a teacher. Though still in the early stages, the response has been very positive to connect young people to the workforce. [WDA 4 – Fox Valley] 
+SouthwestWorkforceDevelopmentBoard:The Southwest Workforce Development Board staff and service providers have a strong vision for the one-stop delivery system. They leverage both required and optional WIOA partnerships to benefit participants in both funding and case management techniques. Career planners are required to conduct outreach with at least four service provider agencies within the WDA each month. This process has helped the board to build a strong community network of partnerships within the framework of the one-stop delivery system. [WDA 11 – Southwest] Cameron:When employees need training, businesses experience skills gaps, and a company's ability to retain workers, grow and prosper can be compromised. Recently, Kettle Moraine Appliance and Sleep Center, a local family-owned appliance and bedding store established in 1986, was having a difficult time finding a qualified Service Technician. Steve, the store manager, contacted the WDB's Business Solutions Representative to express his concern and seek recruitment assistance. The Business Solutions Representative suggested the Incumbent Worker Training (IWT) program as a potential solution. Understanding that the labor shortage is here to stay and the difficulty of onboarding a new employee who does not have the knowledge of the company's standards, products and expectations, Steve shared that their current delivery driver, Cameron, had shown a desire to learn about repairing appliances. Within days of their initial conversation, the Business Solutions Representative received an IWT application for a 3-week appliance repair training for Cameron. Upon completion of the training, Cameron received a certification and was promoted to Service Technician with a $2.00/hour wage increase. Cameron's promotion allowed Steve to hire a new delivery driver, which was much easier. The funding from the IWT program has helped to increase the number of Service Technicians for Kettle Moraine Appliance and Sleep Center. Steve is currently looking at his workforce to identify another person with the interest and aptitude to be trained as a service technician. [WDA 3 – Waukesha Ozaukee Washington] 
+
+Joshua:Joshua is a young adult who is open about being on the autism spectrum. He was connected to workforce development professionals at the Marathon County Job Center and enrolled in WIOA. He attended several workshops offered at the job center, including resume, interviewing, financial education, shopping and nutrition, dressing for success and public speaking. Joshua earned a National Career Readiness Certificate. Joshua completed a work experience at the Marathon County Public Library, where he was able to practice his social skills. WIOA assisted Joshua in obtaining his driver's license, moving him one step closer to independence. During this journey, Joshua experienced the tragic loss of his grandfather, the man who raised him and whom he called Dad. Despite this loss, Joshua persevered. His career planners assisted Joshua in enrolling in the Division of Vocational Rehabilitation (DVR) for additional services. He then started post-secondary school and pursued a degree in video production. He applied his newly learned social skills by becoming a speaker on student panels for events such as Transition to Adulthood, Community Conversation and Autism Conferences. Joshua graduated with his Associate Degree in Video Production in May 2018 with a GPA of 3.1. One of Joshua's career planners assisted him in securing a paid internship with WSAW, the local broadcasting station. He has been working there since September 11th editing the evening news. [WDA 6 – North Central] 
+Amber:Amber, then a mother of two, began using methamphetamines and spent the next three years addicted to the drug. Three months into her addiction, Amber called her mother and asked if she would take her children, so they didn't have to witness their mother's addiction. Amber became pregnant with her third child and begged her doctor for help. She maintained sobriety throughout her pregnancy, and 6 weeks after her baby's birth she became pregnant again. She found out her baby had a heart condition that required an open-heart procedure, and possibly an eventual heart transplant. In dealing with her baby's health struggles, Amber desired to become a certified nursing assistant. She was referred to the WIOA program and her career planner helped her enroll in a CNA program. After earning her certificate, Amber struggled to find employment due to her background. Amber's career planner was able to work with Mulder Health Care Facility to take a chance on Amber. Amber worked through a Transitional Job and an OJT at the nursing home. The nursing home was so impressed with Amber that she was hired as a regular employee in January 2018. [WDA 9 – Western] 
+
+Chytania Brown, Administrator 
+Wisconsin Department of Workforce Development -Division of Employment and Training 201 E Washington Ave PO Box 7972 Madison, WI 53707-7972 
+Chytania.Brown@dwd.wisconsin.gov 
+608.266.3485 
+
+Bruce Palzkill, Assistant Administrator 
+Wisconsin Department of Workforce Development -Division of Employment and Training 201 E Washington Ave PO Box 7972 Madison, WI 53707-7972 
+Bruce.Palzkill@dwd.wisconsin.gov 
+608.266.3623 
+
+Steve Laesch, Assistant Administrator 
+Wisconsin Department of Workforce Development -Division of Employment and Training 201 E Washington Ave PO Box 7972 Madison, WI 53707-7972 
+Steve.Laesch@dwd.wisconsin.gov 
+608.261.6385 
+
+
+
+
+
+
+

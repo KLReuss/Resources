@@ -1,0 +1,40 @@
+ 
+
+ridgeplot <- ggplot(df_ridge2) +
+  geom_density_ridges(aes(y = Type2, x = Performance_Score,  fill = Program), alpha=0.8, bandwidth=4, scale = 1.3) +
+  geom_segment(data = subset(df_ridge2, State == state_name), 
+               aes(x = Performance_Score, xend = Performance_Score, y = y_spot + 0.1, 
+                   yend = y_spot + 0.7, group = Type), size = 1.2) +
+  geom_label(data = subset(df_ridge2, State == state_name),
+            aes(x = Performance_Score, y = y_spot + 0.6, label = score_rank2),
+            hjust = -0.04, size = 3.5, fill = "aliceblue") +
+  geom_density_ridges(aes(y = Type2, x = Actual_Performance2,  fill = Program), alpha=0.6, bandwidth=4, scale = 1.3) +
+  geom_label(data = subset(df_ridge2, State == state_name),
+            aes(x = Actual_Performance2, y = y_spot + 0.6, label = actual_rank2), 
+            hjust = -0.04, size = 3.5, fill = "aliceblue") +
+  geom_segment(data = subset(df_ridge2, State == state_name), 
+               aes(x = Actual_Performance2, xend = Actual_Performance2, y = y_spot + 0.1, 
+                   yend = y_spot + 0.7, group = Type), size = 1.2) +
+  facet_grid(Indicator~Data_Type, scales = "free", space = "fixed", 
+                      labeller = labeller(Data_Type = facet_labels)) +
+  scale_y_discrete(labels = wrap_format(20)) +
+  # scale_fill_viridis(discrete=TRUE) +
+  # scale_color_viridis(discrete=TRUE) +
+  scale_fill_manual(values = wes_palette("BottleRocket2")) +
+  theme_ridges() +
+  labs(title = paste0("How ", state_name, " Compares to All Other States"),
+      caption = "Note: the values of the Median Earnings indicator for actual performance have been modified to fit the scale of this figure.") +
+  theme(
+    legend.position = "none",
+    axis.title.x=element_blank(),
+    axis.title.y=element_blank(),
+    axis.text.x= ,
+    strip.text.x = element_text(face = "bold", size = 12, vjust = 1.5),
+    strip.background = element_blank(),
+    panel.spacing = unit(0.1, "lines"),
+    strip.text.y = element_blank(),
+    plot.title = element_text(face = "bold", size = 20, 
+                              margin = margin(0, 0, 30, 0), hjust = 0))
+
+ridgeplot 
+

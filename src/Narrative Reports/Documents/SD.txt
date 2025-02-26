@@ -1,0 +1,897 @@
+WORKFORCE INNOVATION AND OPPORTUNITY ACT
+
+WIOA
+
+Annual Statewide Performance Report Narrative
+
+DLR logo
+CABINET SECRETARY MESSAGE
+
+WIOA
+
+DLR logo
+A Message from the Cabinet Secretary
+In Program Year 2017, DLR continued momentum towards developing a talented workforce and meeting the business needs of employers. South Dakota is not alone in the challenge of worker shortages but is positioned to make progress. 
+Notable accomplishments I am proud of include:
+•	The enhanced SDWORKS jobs database and management information system continued to be implemented and further developed. The new virtual one-stop has better technology, improved resumes, and more job listings. The updated system is also built around common language and real-time data.
+•	Registered Apprenticeship outreach connected both individuals and employers with training and sponsorship information. Apprentices learn crucial job skills while collecting a paycheck, and sponsors build a skilled workforce meeting their specific needs.
+•	Career Launch SD was established to increase student awareness about career opportunities and encourage business partners to create work-based learning experiences. This not only helps youth make informed decisions, but also helps industry promote available positions.
+In the next year, we look forward to helping improve South Dakota’s workforce and economy through programs and services available under the Workforce Innovation and Opportunity Act. We will continue to build partnerships with our community, industry, economic development, and education leaders to reach even higher levels of success. 
+M. Hultman signature
+
+Marcia Hultman
+Cabinet Secretary
+
+CONTENTS
+
+A Message from the Cabinet Secretary. . . . . . . . . . . . 1
+Glossary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Economic and Workforce Information. . . . . . . . . . . 3
+Workforce Development Council . . . . . . . . . . . . . .  .4 WIOA Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+WIOA Title 1 Youth  (Youth Outreach) . . . . . . . . . . . . 5
+Adult and Dislocated Worker Program . . . . . . . . . 7
+Adult Education and Literacy . . . . . . . . . . . . . . . . .  7
+Wagner-Peyser . . . . . . . . . . . . . . . . . . . . . . . .9
+Businesses Services . . . . . . . . . . . . . . . . . . . . . . . .9
+Incumbent Worker Training . . . . . . . . . . . . . . . .10
+Disability Employment Initiative . . . . . . . . . . . . . . . . .10
+Registered Apprenticeships . . . . . . . . . . . . . . . . 11
+Trade Adjustment Assistance . . . . . . . . . . . . . . . . 12
+Re-Employment Services . . . . . . . . . . . . . . . . 12 
+Veterans . . . . . . . . . . . . . . . . . . . . . . . . 13
+High School Equivalency . . . . . . . . . . . . . . . . 14
+Older Workers . . . . . . . . . . . . . . . . . . . . . . . . 15
+Temporary Assistance for Needy Families . . . . . . . . 15
+Work Opportunity Tax Credit . . . . . . . . . . . . . . . . 16
+Statewide Activities (Career Launch SD, Rapid Response, NCRC, Dakota Roots, Soft Skills Training)  . . . . . . . . . . . . . . . 16
+SDWORKS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Performance and Reporting . . . . . . . . . . . . . . . . 21
+Cost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Research & Evaluation (Optimize DLR, Customer Satisfaction) . .   22
+Appendix A: WIOA policy 6.15 – Job Service Office Performance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A-1
+
+*All data, unless noted otherwise, taken from SDWORKS information management system.
+
+GLOSSARY
+
+WIOA
+
+ASSESSMENTS
+Key Train – An interactive training system for career readiness skills. 
+Mavis Beacon – Computer software to guide one to better typing skills.
+National Career Readiness Certificate – A national standard to certify workplace skills.
+Reality Check – Allows one to explore whether or not an occupation matches their lifestyle.
+Test of Adult Basic Education – Assesses the skills and knowledge of adult learners in reading, mathematics, and language; this assessment instrument can provide diagnostics, inform instruction, and document educational gain. 
+WorkKeys – An assessment system measuring common skills in the workplace.
+
+ACRONYMS
+AEL – Adult Education & Literacy
+BIT – Bureau of Information & Technology
+DEI – Disability Employment Initiative
+DLR – Department of Labor and Regulation
+DRVS – Data Reporting and Validation System
+DSS – Department of Social Services
+DVOP – Disabled Veterans’ Outreach Program
+ETA – Employment and Training Administration
+GED – General Educational Development
+ICS – Individualized Career Services
+IRT – Integrated Resource Teams
+ISPI – Intensive Services Provided to Individuals 
+LVER – Local Veterans’ Employment Representatives
+JSAP – Job Search Assistance Program
+JVSG – Jobs for Veterans State Grants
+NCRC – National Career Readiness Certificate
+NEG – National Emergency Grant
+OJT – On-the-Job Training
+RA – Registered Apprenticeship
+RESEA – Re-employment Services and Eligibility Assessment
+SNAP – Supplemental Nutrition Assistance Program
+SPR – Social Policy Research
+TAA – Trade Adjustment Assistance
+TABE – Test of Adult Basic Education
+TANF – Temporary Assistance for Needy Families
+UI – Unemployment Insurance
+VETS  – Veterans Employment Training Services
+WARN – Worker Adjustment and Retraining Notification
+WDC – Workforce Development Council
+WOTC – Work Opportunity Tax Credit (WOTC)
+
+ECONOMIC & WORKFORCE INFORMATION
+
+WIOA
+
+Population and Population Projections
+South Dakota’s total population began climbing in 1990 and has not stopped. According to estimates published by the U.S. Census Bureau, our population increased by 9.9 percent between 2007 and 2017. This growth exceeds the U.S. population increase of 8.1 percent over the same period. Some of the largest growth has occurred in the Rapid City and Sioux Falls Metropolitan Statistical Areas (MSAs). Population in those two areas increased by 13.9 percent and 19.4 percent, respectively, over the last 10 years. Nearly half (405,900 or 46.7 percent) of South Dakota’s population resides in one of these MSAs. Between 2016 and 2017, growth remained consistent, with the MSAs growing at a slightly faster pace than the rest of the state. 
+Population projections for the 2010-2035 time period released by the South Dakota State University Data Center show South Dakota’s total population will reach 889,447 by the year 2020. This reflects an increase in the core potential workforce (age 16-64) of approximately 14,000 (2.7 percent). While most counties in South Dakota expect population declines, the Rapid City and Sioux Falls MSAs will be the fastest growing areas.
+
+Labor Force
+Current Population Survey (CPS) figures show South Dakota’s labor force participation rate was 69.4 percent in 2017. In other words, nearly 70 percent of all (non-institutionalized) residents age 16 years and older were either working or looking for work. The national average was 62.9 percent. Historically, South Dakota consistently has had higher rates of labor force participation than the nation. South Dakota’s participation rate of 69.4 percent was the fifth highest rate of all states and the District of Columbia. 
+Youth in South Dakota were also active labor force participants. In 2017, 48.9 percent of the state’s youth (age 16-19 years) were in the labor force, compared to the national rate of 35.2 percent. South Dakota’s labor force participation rate of 65 and older was 26.8 percent. The national average was 19.3 percent. 
+Unemployed
+South Dakota’s labor force, which consists of the employed and unemployed, continues to grow, indicating a healthy labor market. The number of unemployed began to increase in March 2016. Increases continued for most of 2017 before it began to level off. The level of employed also began to trend upward in May 2009; growth has remained steady.
+South Dakota’s 2017 annual unemployment rate was 3.3 percent. The national rate was 4.4 percent. South Dakota’s unemployment rate has progressively decreased since the end of the recession, peaking at an annual average of 5.0 percent in 2010.
+Unemployment rates by educational attainment level indicate the highest unemployment rates in South Dakota correlate with residents who have an educational attainment level of less than a high school diploma (8.7 percent). In contrast, the lowest unemployment rates are for those residents who have an educational attainment level of bachelor’s degree and higher (1.3 percent). Higher levels of educational attainment also correlate with higher earning levels.
+Not in the Labor Force
+There are several reasons why South Dakota civilians are not in the labor force, a few of which include specific barriers to employment such as discouragement and poor job prospects.
+Occupational Data and Occupational Projections
+Occupational data provides a focused picture of skills in demand. A look at the occupations projected to grow the most rapidly in South Dakota over the next few years provides insight into the skills that may be most needed. Several occupations in the health care field are projected to be among the fastest growing. 
+An even more relevant indicator of the workforce skills needed in the future are occupational demand projections. Employment projections include average annual demand estimates for each specific occupation — or an estimate of the workers who will be needed to fill job openings not only created by employment growth within the industries where the occupation is found, but also those needed to fill openings created by replacement need.
+Hot Careers
+DLR encourages the use of occupational demand data and wage estimates to determine assistance for occupational training or educational programs. This helps ensure an adequate return on investment — not only with the greater likelihood of a trainee or graduate finding employment in an occupation related to the program, but also of being able to improve his or her earning potential.
+To help individual career planners and job seekers identify occupations with the most favorable job outlook from a labor market perspective, the Labor Market Information Center (LMIC) identifies high-demand, high-wage occupations, or “Hot Careers.” The Hot Careers also help education and training program planners make better-informed decisions about the feasibility of programs offered. 
+To be a Hot Career, an occupation must be projected to show employment growth; be among the 30 with the highest projected demand for workers (2016-2026); and have an average wage above the median wage across all occupations ($32,338) using 2017 wage data. LMIC published a list of the 2016-2026 Hot Careers as well as links to job openings for these careers on its website (https://dlr.sd.gov/lmic/menu_hot_careers.aspx). 
+
+For more workforce information, view LMIC’s Annual Workforce Report at 
+dlr.sd.gov/lmic/publications/labor_market_reports/labor_market_report_2017.pdf
+
+WORKFORCE DEVELOPMENT COUNCIL
+
+WIOA
+
+The South Dakota Workforce Development Council (WDC) used focused meeting agendas in PY2017, with items surrounding training opportunities in South Dakota as well as tours of job service offices and the Sioux Falls Career and Technical Education Academy. The WDC began and ended PY2017 with the approval of the Eligible Training Provider List (ETPL), in July 2017 and May 2018, to allow for the use WIOA Title I training funds for the provision of training services directed toward high-demand occupations and training programs. 
+The Council approved the re-certification of the Huron, Mitchell, and Sioux Falls One-Stop Career Centers. This process included on-site program reviews, equal opportunity, and Americans with Disabilities Act (ADA) compliance.
+
+WIOA OVERVIEW
+
+WIOA
+
+With the implementation of WIOA in July of 2015, the South Dakota Department of Labor and Regulation (DLR) has re-evaluated our policy and processes, rekindled partnerships, and focused efforts on training staff. 
+In June of 2017, DLR job service offices were certified as One-Stop Career Centers and the WIOA Policy Manual, found at http://www.sdjobs.org/workforce_services/wioa/manual.aspx, was approved by the Workforce Development Council. A One-Stop Operator was selected, and an agreement was established. After much coordination and several revisions, a Memorandum of Understanding was developed among all WIOA core programs and required partners in South Dakota. This MOU was finalized and implemented in July of 2018.
+As a result of WIOA, DLR has encouraged elimination of programmatic silos in our offices by cross-training staff and encouraging enrollment to the greatest extent possible into partner programs. We have worked to streamline partner programs including Wagner-Peyser, Adult, Dislocated Worker, Youth, Trade Adjustment Assistance, Senior Community Service Employment Program, Re-employment Services, Temporary Assistance for Needy Families, etc. The mixture of the services these programs offer increases opportunities for our customers to achieve successful outcomes. 
+Each office has agency team meetings quarterly, if not monthly, where WIOA partners and community providers discuss opportunities for collaboration and upcoming programmatic changes. In the end, our customers benefit from this level or partnership. While great strides and progress have been made toward WIOA implementation, these efforts will continue into Program Year 2018.
+
+WIOA TITLE I YOUTH
+
+WIOA
+
+The WIOA Youth Program provides opportunities and services to individuals ages 14 through 24, with emphasis on disconnected youth who are out of school. Employment specialists in DLR job service offices work one-on-one with individuals to develop employment plans. The plans are developed specifically to help overcome hardships and barriers in becoming self-sufficient adults. In PY2017, employment specialists assisted 374 young adults in identifying their needs and develop employment plans. 
+The WIOA Youth Program in South Dakota offers participants 14 services: 
+1.	
+Tutoring, study skills training, instruction and dropout prevention and recovery strategies leading to a secondary school credential 
+
+2.	
+Alternative secondary school services 
+
+3.	
+Paid and unpaid work experiences with an academic and occupational component 
+
+4.	
+Occupational skill training leading to a recognized post-secondary credential aligned with in-demand sectors 
+
+5.	
+Education offered with workforce preparation activities and training for a specific occupation 
+
+6.	
+Leadership development opportunities 
+
+7.	
+Supportive services 
+
+8.	
+Mentor programs 
+
+9.	
+Follow-up services 
+
+10.	
+Comprehensive guidance and counseling 
+
+11.	
+Financial literacy education 
+
+12.	
+Entrepreneurial skills training 
+
+13.	
+Labor market information with career exploration and counseling 
+
+14.	
+Activities to help youth prepare for, and transition to, post-secondary education and training. DLR job service offices also offer group activities for young adults including a Job Search Assistance Program (JSAP) and Financial Literacy courses.
+
+
+While DLR has increased partnerships, the youth program in particular has developed specialized partnerships with federal, state, local and tribal youth programs. Several of our job service offices have developed partnerships with the Box Elder Job Corps, McCrossan Boy’s Ranch, South Dakota Jobs for Americas’ Graduates (JAG) program, and teen courts. DLR has an MOU with the Box Elder Job Corps to provide an opportunity for students to take part in a paid work experience related to their training field.
+WIOA requires a minimum of 75 percent of youth expenditures to be used on Out-of-School Youth (OSY) and at least 20 percent to be used on work experiences. While the program has been able to meet the OSY expenditure, work experience expenditures have been harder to meet. The PY2017 program expenditure rates were 81 percent for OSY and 19 percent for work experiences. Our expenditures have steadily improved since the implementation of WIOA and will be a focus for PY 2018. 
+Retention within the youth program has not been easy. Currently, the state has a relatively low unemployment rate, which has produced a favorable job seeker market. Our job service offices typically enroll a youth only to find out that the individual has found a job without our assistance. Though this job may not be part of an individual’s career pathway, youth often fail to attend appointments because the immediate need for employment and income has been temporarily met. 
+To combat the retention issues, DLR applied to be part of a Youth Cohort Challenge hosted by the USDOL entitled, “What does it take to effectively engage and retain out-of-school youth throughout the program lifespan?” Out of 85 applications, our group was one of eight chosen to participate. From this challenge, DLR plans to re-evaluate how we can better communicate with youth through the use of technology.
+
+Chart showing number of Youth Serviced in WIOA Title I for three program years: 374 served in PY 2017, 307 in PY 2016 and 344 in PY 2015.
+Chart showing Barries to Employment. Highest were low-income individuals, individuals with disabilities, and English language learner, low levels of literacy, cultural
+YOUTH OUTREACH
+
+DLR realizes we have a difficult time reaching the youth population as they are not likely to walk into our job service offices for assistance. As a result, the WIOA Title I Youth program was rebranded as Career Launch SD, Opportunity Starts Here. The outreach campaign is designed to promote career and education tools for youth 14 to 24 years old. Social media outreach efforts and print materials are filled with fun colors, action words, and a positive, energetic vibe. 
+A microsite was created with the primary call to action being a short form for interested applicants or potential businesses sponsors to fill out. The performance measures of this three-year outreach plan include the number of people completing the online form and WIOA intake, number of new business partners, and social analytics. For more information on Career Launch, see Page 17 and CareerLaunchSD.com.
+
+Image of Career Launch SD home page. 
+ADULT AND DISLOCATED WORKER PROGRAM
+
+WIOA
+
+The WIOA Adult Program provides career and training services through the job service offices to help job seekers who are at least 18 years old succeed in the workforce. In the provision of individualized career services and training services, WIOA establishes a priority for serving low-income individuals, recipients of public assistance, as well as individuals who are basic skills deficient. The Adult program’s delivery of career and training services are tailored to individual job seeker needs. Through comprehensive assessments, an individual’s needs are identified and an employment plan tailored to meet his or her needs is established. 
+The Dislocated Worker Program provides career and training services to help job seekers who meet the definition of a dislocated worker. Additionally, separating service members are eligible for dislocated worker services as they transition from military to civilian careers if they meet certain requirements. The goal of the Dislocated Worker program is helping individuals return to the workforce with the skills they need to obtain quality employment in in-demand industries. 
+In PY2017, 1,406 Adults and Dislocated Workers were provided career and or training services throughout South Dakota. 
+
+Entered Employment 	Rate
+ Goal
+ Actual
+ 
+Adult	
+ 72.9%
+ 78.7%
+ 
+Dislocated Worker
+ 72.9%
+ 88.9%
+ 
+
+
+
+WIOA program participants’ Success Stories can be found at 
+www.sdjobs.org/workforce_services/individuals/successes/default.aspx.
+
+ADULT EDUCATION AND LITERACY
+
+WIOA
+
+Like the WIOA Titles I and III, Title II Adult Education and Literacy (AEL) is under the aegis of the DLR. DLR has long been committed to serving adults who are most in need of literacy service, including those who are low-income or have minimal literacy skills, learners with disabilities, single parents, displaced or dislocated workers, and those with limited English proficiency. Other populations served include unemployed and underemployed persons, young adults, offenders in correctional institutions, and ex-offenders. These individuals may perform below the 9.0 grade level equivalency and generally demonstrate a need for reading, writing, and math skills in order to obtain or retain employment.
+Improving the literacy, numeracy, and oracy skills of our workforce leads to a stronger economy. The instruction, activities, and services provided by the AEL programs promote family literacy, obtainment of a high school diploma equivalency, employment, and self-sufficiency. Language instruction methodologies, such as workplace literacy, and action-research projects were again priorities for the Integrated English Literacy and Civics Education program. These efforts support our non-native speakers, immigrants, and former refugees in achieving linguistic, economic, and civic integration.
+In PY2017-18, WIOA Title I supported three AEL Special Projects as allowable statewide activities: Career Navigation, Distance Education, and Weekend ESL.
+Career Navigation
+The Adult Education and Literacy program at Lutheran Social Services of South Dakota’s Center for New Americans piloted an innovative Career Navigation Special Project during PY2017-18. Through intensive case management, the project provided a necessary support service to adult English learners with significant barriers to employment. It also bridged the Center for New Americans’ Integrated Education and Training program to employment opportunities.
+Initiated in January 2018, 40 students enrolled in Career Navigation services. This grant project is crucial to the Center for New Americans’ clients. Twenty-five percent of the participants were currently enrolled AEL students and/or participants in the Integrated Education and Training Program. The remainder were community members who needed intensive employment case management as non-native English speakers with low print and digital literacy skills. Fifty-five percent of the clients achieved self-sufficiency through obtaining a job or job upgrade. 
+The need for services exceeded the capacity for this promising and impactful project. In six months, this project served 40 job seekers, helped to meet the workforce needs of 12 different local employers, yielded 22 jobs, and 18 job seekers have started the career navigation process. 
+Distance Education
+Under a PY2017-18 Title I Special Project, Cornerstones Career Learning Center provided Adult Basic/Secondary Distance Education via a Virtual Learning Environment throughout South Dakota. As a state with a large land mass, but low population, an undeniable need exists for virtual learning as part of AEL. 
+Of 99 online learners taking advantage of the distance education program, 51 became federal WIOA Title II participants. These adult students averaged over 51 hours of web-based instruction; across the Periods of Participation, 15 Measurable Skill Gains were made. Nine of these 51 students earned their high school equivalency during PY2017-18.
+Weekend ESL
+Under a PY2017-18 Title I Special Project, Cornerstones Career Learning Center also delivered instruction, activities, and services to support incumbent workers in the Huron area with limited English proficiency or basic skills deficiency by providing an alternative classroom schedule for specific adult education opportunities. The Weekend ESL project supports classes on Saturdays and Sundays to serve a need in the area communities; many of the students are employed in meat-packing, manufacturing, hospitality, and food-processing.
+The Weekend ESL program had 80 enrollments. Of those 80 adult learners, 56 of them became federal WIOA Title II participants. These weekend students averaged nearly 79 hours of instruction during the program year; across the Periods of Participation, 24 Measurable Skill Gains (MSG) were made. The aggregate MSG rate for this weekend cohort was an impressive 41 percent.
+
+AEL student’s Success Stories can be found at 
+dlr.sd.gov/workforce_services/individuals/ael_success_stories.aspx
+
+WAGNER-PEYSER
+
+WIOA
+
+The primary function of the Wagner-Peyser Act is to provide universal access of labor exchange services to job seekers.
+Labor exchange services are considered a type of career service under WIOA and are available to all individuals legally entitled to work in the U.S. There are no eligibility criteria. 
+
+BUSINESS SERVICES
+
+wagner-peyser
+
+The Governor’s vision of South Dakota as a land of opportunity aligns with the directives of WIOA to ensure its citizens are prepared for work and businesses can thrive. South Dakota’s growing economy and low unemployment rate has made workforce development one of Governor Daugaard’s top priorities. The South Dakota Department of Labor and Regulation has a long history of serving businesses to meet their ongoing needs for skilled workers. 
+The U.S. Department of Labor has implemented a pilot program through WIOA to measure effectiveness in serving employers. Through these measures, DLR is focusing efforts specifically on employee retention and repeat services to businesses. 
+DLR provides a wide array of services designed to assist employers in recruitment of employees. Work-based learning opportunities for individuals, such as on-the-job trainings and work experiences, continue to be effective tools in addressing immediate workforce shortages. SDWORKS is a valuable resource for employers to post their jobs online, utilize labor market information, and recruit talent by accessing resumes of candidates who have the qualifications they need. 
+DLR is committed to strengthening its partnerships with business and industry to provide long-term solutions in growing a qualified workforce. Registered Apprenticeship and the National Career Readiness Certificate (NCRC™) programs help employers reach South Dakota’s youth population to promote in-demand occupations. 
+DLR Career Launch SD staff have taken business outreach to a new level by working in the schools and partnering directly with employers to help youth reach their potential by raising career awareness. Connecting students with businesses through job shadowing, career fairs and internships allow businesses to build a positive reputation and shape a workforce ready to meet industry-driven demand.
+Employer involvement in identifying and developing career pathways in their organizations allows DLR to work with education providers to customize education and training programs based on employers’ specific needs. Employers gain access to a greater array of potential workers in untapped labor pools such as veterans, older workers and individuals with disabilities. 
+Job service office managers are directly involved with businesses, community leaders, educators, and economic development authorities. Staff are readily available to assist businesses with job fairs, applicant screening, interview space, and other resources. Training opportunities are also available for businesses to help existing employees develop the soft skills necessary to retain employment, resulting in less staff turnover. 
+DLR is part of a cohesive network of state agencies, nonprofit organizations, post-secondary and other education and training providers working together to provide quality services to businesses by coordinating resources to increase program effectiveness.
+
+INCUMBENT WORKER TRAINING
+
+wagner-peyser
+
+Incumbent Worker Training is designed to meet the special requirements of an employer or a group of employers to retain a skilled workforce or avert the need to lay-off employees by assisting the workers in obtaining the skills necessary to retain employment. This type of training program must have the following: 
+•	
+A commitment by the employer to retain or avert the layoffs of the incumbent worker(s) trained. 
+
+•	
+An established employment history of the participant with employer for at least six months or more. 
+
+•	
+Training to satisfy and increase the competitiveness of the employee or employer. 
+
+
+Examples of incumbent worker training include training on new equipment or software designed to increase the productivity or efficiency of the company; developing an employee’s leadership skills for promotion within the company; and creating new opportunities for entry level positions.
+A participant in this program does not have to meet the eligibility requirements for career and training services for Adult and Dislocated worker under this Act. Incumbent Working Training is funded through statewide funds, Rapid Response funds, and up to 20 percent of funds from Adult and Dislocated workers. Employers are required to pay the non-federal share of the cost of providing training to their incumbent workers. The amount of the non-federal funds depends upon limits established in the contract.
+
+DISABILITY EMPLOYMENT INITIATIVE (DEI)
+
+WIOA
+
+South Dakota was a Round 5 grantee of the Disability Employment Initiative (DEI). Grant services began in April 2015 and ended in March 2018. The purpose of the DEI grant was to improve DLR’s system and services to individuals with disabilities. The grant focused on services to job seekers disclosing a disability ages 18 and older. 
+South Dakota Population with Disabilities
+According to 2017 American Community Survey (ACS) data produced by the U.S. Census Bureau, the percentage of South Dakota’s population with a disability is 11.6 percent. For the age group 18-64 years, it is 9.8 percent. The age group with the highest rate of disability is 65 years and older at 31.6 percent, which correlates with disabilities often occurring as people age, including hearing, vision and self-care disabilities.
+In the labor force core (ages 18 to 64 years), the highest percentage of disabilities is for those with a cognitive disability. Individuals with such limitations are often defined as having mild traumatic brain injury (TBI). Persons with mild TBI often retain the ability to work competitively. Such individuals have lower levels of employment  and typically earn less when employed year-round, full-time than persons without a disability. The second highest is for those with an ambulator disability, which causes difficulty walking or climbing stairs. 
+Performance
+Surpassing the initial grant goal of serving 75 adults, DEI impacted 136 individuals. Training to increase workplace skills was provided to 87 individuals. 
+Outcomes:
+Staff training has been instrumental in identifying individuals with disabilities within programs. Training provided the tools to make discussing disabilities with participants a normal part of the process and our customers' comfort level in disclosing disabilities rose. Training also equipped staff with resources and knowledge of how to best assist those with disabilities. 
+Through a partnership with Rapid City Collective Impact, Prosperity Initiative, and John T. Vucurevich Foundation, and the DEI grant, Donna Beegle provided a public presentation, “See Poverty…Be the Difference.” About 1,300 individuals attended. An afternoon training was provided to about 75 DLR staff and partner agencies. This message provided insight into understanding our own perceptions and building relationships to assist our customer with change related to generational poverty. A book study was completed by all DLR job service staff. 
+To inform employees with disabilities of their rights under the ADA and to educate employers, DLR developed three American’s with Disabilities Act (ADA) videos and two fact sheets:
+•	
+What you need to know about the ADA for Employees
+
+•	
+ADA Pre-Employment Considerations for Employers and Fact Sheet 
+
+•	
+ADA Considerations During Employment for Employers and Fact Sheet
+
+
+They can be found at https://www.sdjobs.org/workforce_services/businesses/disability_resources.aspx.
+A Career Pathways web page “Find Your Future” is under development with the assistance of the DEI. This website, https://careerpathways.sd.gov/, is a partnership of the Department of Education, Board of Regents, Board of Technical Education, and DLR. It offers counselors, parents, students, and South Dakotans a glance at opportunities for advancement and support resources in the state. 
+Sustainability:
+Despite the funding for this initiative ending, the impact is sustaining. The efforts to engage and assist individuals with disabilities in the workforce remains. DLR will continue to educate employers about this untapped workforce. Many items initiated by the DEI are now a normal practice in the workforce system in South Dakota. This includes participant-led Integrated Resource Teams (IRTs), agency partner meetings, blending and braiding of program resources, and the offering of financial literacy courses. 
+
+South Dakota Residents 
+with Disabilities 
+(Population 18 to 64 years)
+ Percentage of Total Civilian Population
+ 
+Total
+ 9.8%
+ 
+With a hearing difficulty
+ 2.4%
+ 
+With a vision difficulty
+ 1.7%
+ 
+With a cognitive difficulty
+ 4.0%
+ 
+With an ambulatory difficulty
+ 3.7%
+ 
+With a self-care difficulty
+ 1.1%
+ 
+With an independent living difficulty
+ 3.0%
+ 
+Source: U.S. Census Bureau, 2017 American Community Survey
+ 
+
+
+
+Percentage of WIOA Title I Adult Participant Disclosing a Disability in PY2014-2017 (three quarters only for 2017). 2014 was 9.6%, 2015 was 34.7%, 2016 was 42.8% and 2017 was 34.0%
+WIOA Title II Adult Education and Literacy Students Disclosing a Disability in PY2014-2017 (three quarters only for 2017). 2014 was 32, 2015 was 66, 2016 was 96 and 2017 was 89.
+REGISTERED APPRENTICESHIPS
+
+WIOA
+
+Registered Apprenticeships (RA) help mobilize the workforce by combining on-the-job training with related classroom instruction to prepare highly skilled workers with industry competencies and the skill sets employers need. 
+DLR was awarded $900,000 from the U.S. Department of Labor in 2016 for the acceleration and expansion of RA opportunities in the state. In June 2018, DLR was awarded an additional $847,700 to continue advancing RA as a workforce strategy and post-secondary education career pathway that maintains the nation’s strong, adaptable, and highly skilled workforce. 
+Awareness and knowledge of Registered Apprenticeships across the state was limited prior the initial State Expansion Grant. By naming the Registered Apprenticeship program in South Dakota, StartTodaySD, the boots-on-the-ground education and outreach throughout the last year has started to change the conversation, resulting in momentum gains in program development. Continuing with our commitment to build capacity, job service office staff met with partners, facilitated the process for new RA programs, attended trainings, conducted public outreach and assisted individuals in RA placement. DLR also has partnerships with the Associated General Contractors, Lake Area Technical Institute, Mitchell Technical Institute, Southeast Technical Institute, the South Dakota Association of Plumbing Heating Cooling Contractors, Independent Electrical Contractors of the Dakotas, and Midwestern Mechanical. During National Apprenticeship Week in 2017, DLR staff traveled to South Dakota’s four technical institutes for information sessions. Apprentices and businesses spoke about the benefits of an RA program. Through program development and partnerships, DLR intends to increase the number of apprentices by 300 before Fall 2020. 
+The U.S. DOL Office of Apprenticeship currently approves all South Dakota’s RA programs. Being a single-region state, one person, the state director from the U.S. DOL Office of Apprenticeships is responsible for providing the technical assistance, implementation, training, and oversight of all RA programs. This has created a bottleneck in the process as outreach and interest continue to grow. 
+Visit starttodaysd.com to learn more about Registered Apprenticeship efforts in South Dakota.
+
+Image of Start Today SD home page. 
+TRADE ADJUSTMENT ASSISTANCE
+
+WIOA
+
+Trade Adjustment Assistance (TAA) is a federal program established to reduce the damaging impact of imports felt by certain sectors of the U.S. economy. TAA provides a variety of benefits to those who qualify for the program such as: Re-employment Services, Job Search Allowance, Relocation Allowance, Training Services, Trade Adjustment Allowance, and Re-employment Trade Adjustment Assistance.
+The State of South Dakota co-enrolls every TAA participant into the Dislocated Worker Program. The partnership with the Dislocated Worker program allows for support services that individuals may need in order to complete training and become reemployed. 
+Fifty-one individuals benefited from the South Dakota TAA Program in PY2017. While two new petitions were submitted, one was denied and the other is awaiting a determination of approval.
+
+RE-EMPLOYMENT SERVICES
+
+WIOA
+
+The Re-employment Services and Eligibility Assessment (RESEA) program is funded by the U.S. Department of Labor to help Unemployment Insurance claimants return to work more quickly. Unemployment Insurance claimants are identified through profiling methods as likely to exhaust benefits and who need 
+re-employment services to transition to new employment. In PY2017, over 3,000 unemployment insurance recipients received services from job service offices in South Dakota .
+South Dakota is in the process of rewriting state policy and procedures for this program to align it with WIOA Title I. RESEA participants will also be enrolled in the Adult, Dislocated Worker, or Youth programs as eligible. This alignment will allow for much needed support and training for these individuals as they return to the workforce. 
+
+VETERANS
+
+WIOA
+
+South Dakota values its veterans. They have served our country, and we are proud to serve them, their families and those who hire them. DLR job service offices are staffed with trained representatives who can provide job-seeking veterans with an array of job services, career planning and training referrals, including WIOA. 
+DLR has three full-time and five half-time representatives funded by Jobs for Veterans State Grants (JVSG). Five of our 19 job service offices do not have JVSG representatives due to funding limitations, but all offices have received guidance and training on veteran services by the JVSG Program Coordinator. This knowledge allows non-JVSG employment specialists and JVSG Disabled Veterans Outreach Program (DVOP) employment specialists to assess veterans’ employment needs and provide information and resources for long-term employment. A job service office which does not have a DVOP assigned can request DVOP assistance. Referrals to all appropriate support programs, including WIOA, are made available to veteran job seekers and are a vital part to any employment plan.
+WIOA’s role in veteran services helps veterans acquire skills to work with new technology, assists those who have lost their jobs, and helps families by working with social service agencies. Veterans needing employment or training may be eligible for WIOA training programs. Services include work readiness skills; interview tips; resume preparation; employment counseling on the career opportunities available with education and training; and help with basic skills education, preparation work for a high school equivalent or completion of high school diploma. 
+Priority of Service
+The Veterans’ Employment and Training Service (VETS) provides Jobs for Veterans State Grants (JVSG) to support program activities and services provided by the One-Stop Career Centers for veterans. The JVSG funds support the appointment and assignment of Disabled Veterans’ Outreach Program (DVOP) Specialists and Local Veterans’ Employment Representatives (LVERs). The definition of veterans and “other eligible persons” applicable to services provided by JVSG staff is narrower than that which applies within the priority of service “covered person” definition. For example, other than those who:
+•	
+Served on active duty for a period of more than 180 days and were discharged or released with a discharge other than dishonorable.
+
+•	
+Were discharged or released from active duty because of a service-connected disability.
+
+•	
+Served for active duty under Title 10, served during a period of war, or in a campaign/expedition for which a campaign badge is authorized.
+
+•	
+Discharged or released from active duty by reason of sole survivorship.
+
+
+Individuals eligible for services by DVOP staff is a subset of the broader group of individuals entitled to priority of service. DVOP staff perform case management services and develop jobs through employer relations activities for veterans and other eligible persons who require career readiness employability development. 
+Priority of Service Implementation 
+Veterans and eligible spouses (covered persons) are given priority over non-covered persons for the receipt of employment, training and placement services in all programs funded by DOL and are entitled to precedence over non-covered persons for services. Some examples of priority of service include: placing covered persons first in line for employment services and resource room services and priority in WIOA funding for training programs. 
+Definition of a Veteran for Priority of Service
+Veterans and eligible spouses, including widows and widowers as defined in the statute and regulations, are eligible for priority of service. For the purposes of implementing priority of services, the final rule requires program operators use the broad definition of veteran found in 38 U.S.C. 101(2). A spouse whose eligibility is derived from a living veteran or service member would lose his or her eligibility if the veteran or service member were to lose the status that is the basis for the eligibility. Similarly, for a spouse whose eligibility is derived from a living veteran or service member, that eligibility would be lost upon divorce from the veteran or service member. 
+Veterans Program Letter (VPL) 07-09 and Training and Employment Guidance Letter (TEGL) 10-09 provides further information about Priority of Service.
+Priority of Service on Job Orders
+Selection and referral procedures will expose veteran job seekers to the most job orders before such orders are placed in the mainstream of the selection process. Veterans receive preference on all posted job orders. If suitable veteran job seekers cannot be found through file selection or walk-in traffic, then non-veteran seekers will be considered. If a suitable veteran or non-veteran job seeker cannot be referred within this specific time, the employer will be contacted to review the job order. “Same Day” selection and referral of veteran job seekers to job openings must be accomplished in the following priority sequence:
+•	
+Qualified Special Disabled Veteran.
+
+•	
+Qualified Disabled Veterans other than Special Disabled Veterans.
+
+•	
+All other qualified veterans and eligible spouses.
+
+•	
+Qualified non-veterans.
+
+
+Performance
+The Individualized Career Services (ICS) for total participants served was 226, with total current period services of 248. The performance rate for ICS at the end of Program Year 2017 is 91 percent. This is higher than the performance goal of 90 percent, which has remained in place as a standard performance goal by VETS.
+Performance information for entered employment rate for (second quarter after exit) is not available for Wagner- Peyser staff as it is not listed on the rolling four quarters for Program Year 2017 ending June 30, 2018.  Likewise, Performance information for the retention employment rate for (fourth quarter after exit) is not listed either. Neither are median wages for (second and fourth quarters after exit) listed. 
+Performance information for entered employment rate (second quarter after exit) and employment retention rate (fourth quarter after exit) are not listed on this rolling four quarters report for JVSG staff. The median earnings for both (second and fourth quarters after exit) are not listed either. JVSG negotiated performance measures for DVOP and LVER staff were not finalized until after Program Year 2017. 
+The JVSG Program Coordinator will continue to incorporate more assistance and training to Wagner-Peyser and JVSG staff for accommodating veterans. This will allow DLR staff to continue to bridge the gap between good service and great service. By providing veterans the greatest service possible, veterans will have the best opportunity to succeed in fulfilling a positive career path. Not only does this provide for great customer service, it also will be a direct link to fulfilling negotiated performance measures.
+
+HIGH SCHOOL EQUIVALENCY (GED)
+
+WIOA
+
+During the 2018 program year, 611 South Dakotans earned a General Educational Development (GED®) credential. The largest group was multi-race males ages 20-24 who had finished their junior year of high school. 
+While the national pass rate during the program year was 79 percent, South Dakota had a pass rate of 88 percent. Test scores were equal to or above the national pass rate in each subject
+For a South Dakotan who does not have a high school diploma, possessing a GED credential remains a viable path to advancing education, expanding job opportunities, and increasing earning potential.
+
+South Dakota
+ Ages 16 and 17
+ Corrections
+ 
+Passed GED
+ 611
+ 96
+ 149
+ 
+Pass rate
+ 88%
+ 90%
+ 88%
+ 
+
+
+
+OLDER WORKERS
+
+WIOA
+
+The Senior Community Service Employment Program (SCSEP) is a community service and work-based job training program for older Americans. Authorized by the Older Americans Act, the program provides training for low-income unemployed seniors. DLR develops partnerships with non-profits and government agencies to provide individuals, age 55 or older, the opportunity for a valuable part-time work experience and other training activities to become competitive in today’s workforce. DLR is currently in its fourth full year administering the state portion of the SCSEP grant.
+In PY2017, the SCSEP state grant provided services to 43 older workers age 55 and older. Participants worked a total of 32,064 hours in South Dakota communities. 
+DLR had a federal review of the SCSEP program in PY2017 and, as a result, is revising policies to increase participation and to transition to the new performance measures that will align the program with WIOA, beginning in PY2018. The primary challenge continues to be finding participants and/or transitioning them into suitable, unsubsidized employment, especially in rural areas.
+
+TEMPORARY ASSISTANCE FOR NEEDY FAMILIES (TANF) 
+
+WIOA
+
+DLR is a long-term partner of the Department of Social Services (DSS) in co-administering welfare-to-work programs in South Dakota. DLR delivers TANF work activities in 54 counties that contain 54 percent of the eligible mandatory parent-case population.
+DLR strives to improve the TANF participation rate because it is the principle performance outcome mandated by the U.S. Department of Health and Human Services. The federal government requires states to achieve a 50 percent participation rate (unless a waiver has been approved) to receive full TANF block grant funding. This federal fiscal year, which ended Sept. 30, 2018, DLR achieved the required 47.6 percent participation rate for the TANF clients living in DLR counties (non-reservation counties) in South Dakota.
+DLR continues to provide individualized, intensive case management to all TANF households. We place a high priority on strengthening partnerships with our local community organizations. This includes United Way Service programs, local school districts, county welfare agencies and sheltered workshops across the state. In addition, we utilize other state department’s agencies, including the Office of Child Support, Vocational Rehabilitation and the Department of Corrections for the benefit of our TANF clients. In cooperation with WIOA programs, TANF has leveraged program dollars to help as many eligible South Dakota families as possible. We aggressively promote education and job training.
+Some of DLR’s current innovative TANF projects include
+•	
+A comprehensively managed work site/skill development center in Rapid City and Sioux Falls;
+
+•	
+A TANF disability advocate;
+
+•	
+Enrollment of TANF clients into WIOA Title I and Title lll programs.
+
+
+DLR attempts to assist potential TANF participants with financial diversion opportunities prior to obtaining full TANF benefits. The diversion program assists potential TANF participants with a one-time cash payment. For example, this one-time payment could be used to purchase work and interview-appropriate clothing. The diversion helps individuals start off in good position in their employment without having to apply for ongoing TANF benefits.
+
+TANF Performance Measures
+ 
+2017
+ 2018
+ 
+TANF Applicants (Mandatory, from DLR Counties) During the Period
+ 3,331
+ 3,176
+ 
+Caseload – Monthly Average
+ 278
+ 265
+ 
+Caseload – DLR Statewide Share
+ 47%
+ 54%
+ 
+Employment – Job Entries
+ 640
+ 595
+ 
+Employment – Share of Statewide Job Entries
+ 84%
+ 83%
+ 
+Employment – Job Entries with medical benefits
+ 21%
+ 17%
+ 
+Employment – Share of Statewide Job Entries with medical benefits
+ 95.5%
+ 99.9%
+ 
+Average Starting Wage (per hour)
+ $10.39
+ $10.54
+ 
+
+
+
+WORK OPPORTUNITY TAX CREDIT (WOTC)
+
+WIOA
+
+WOTC is a federal income tax credit savings program that encourages employers to hire job seekers who experience high unemployment rates due to employment barriers. The WOTC program produced 4,596 certifications with a 47.1 percent Certification rate during the fiscal year. The WOTC program saved South Dakota employers an estimated $12,070,200.00 in federal income tax savings.
+Even though South Dakota processed fewer applications in the 2018 federal fiscal year, it maintained a high certification rate compared to other states. This is attributed to the high quality of attention paid to each application received through a manual process; many states use an automated process and fail to validate additional target groups the new employee may qualify for.
+
+Status
+ 2017
+ 2018
+ 
+Certifications
+ 5,016
+ 4,596
+ 
+Denied Applications
+ 4,895
+ 4,386
+ 
+Pending Applications
+ 201
+ 265
+ 
+Conditional Applications
+ 687
+ 512
+ 
+Total Applications
+ 10,799
+ 9,759
+ 
+Acceptance Rate
+ 50.6%
+ 47.1%
+ 
+Tax Dollar Savings
+ $13,349,800.00
+ $12,070,200.00
+ 
+
+
+
+STATEWIDE ACTIVITIES
+
+WIOA
+
+WIOA statewide funding has been essential for workforce development in South Dakota. It assists in funding administrative costs, the Workforce Development Council, our SDWORKS data management system, training of staff, monitoring and certification of job service offices, implementation and support of the Eligible Training Provider List, and evaluations of programs, among other services.
+Based on employers’ requests for soft skills training for workers, DLR utilized statewide dollars to offer the Bring Your ‘A’ Game soft skills curriculum to employees and job seekers. New in PY2017, this eight-hour, hands-on training is gaining popularity throughout the state. More information about South Dakota’s efforts to improve the soft skills of our workforce is found on page 20.
+Through statewide funding, DLR was also able to offer both employers and job seekers the ACT National Career Readiness Certificate (ACT NCRC®). The NCRC is an assessment-based credential that measures and certifies essential skills needed in the workplace. It offers job seekers a way to communicate their skills to employers and a way for employers to quantify an applicant’s skill set. As of the end of May 2018, 24,373 South Dakotans hold an NCRC and nearly 700 businesses in South Dakota recognize the NCRC. More information about the NCRC in South Dakota can be found on page 18. 
+In PY2017, WIOA Title I statewide funds supported three AEL Special Projects: Career Navigation, Distance Education and Weekend ESL. These projects have increased access to services for both employees and job seekers. More about these projects can be found under the Adult Education and Literacy section on Page 7.
+To further engage with businesses and meet workforce demands, DLR set aside a small portion of statewide funding for incumbent worker training in PY2017. We have successfully completed trainings that have allowed us to strengthen policies and procedures related to this training. More about the incumbent worker program can be found under the Incumbent Worker section on Page 10.
+Due to limitations of program dollars, DLR uses WIOA Title I statewide funds to assist in public outreach to businesses and individuals. This outreach is essential to maintaining awareness and relevance in South Dakota. Staff members present at community gatherings such as economic development and Chamber of Commerce meetings. They also visit local schools to increase awareness about career and soft skills assistance DLR can provide to students. 
+Through a partnership with the Department of Human Services and Augustana College in South Dakota, statewide funding asissted five young adults with intellectual and developmental disabilities with their participation in post-secondary educational experiences, thereby improving employment. Augustana creates appropriate supports for students in classroom settings; assists students in locating appropriate residential options; develops peer support networks (peer navigators); and produces on/off-campus work opportunities and internships, including job coaching services. 
+Due to difficulties in reaching out-of-school youth, DLR has partnered with an ad agency to brand our youth program, Career Launch SD, and create materials and on-line marketing to attract this age group. In addition the program addresses the issues of the decline of youth engagement in the workforce and the many youth who leave the state. The Department of Education and DLR partnered to hire 12 individuals to bridge the gap between schools and businesses in four South Dakota communities. Significant achievement from this pilot project that started in January 2018 can be found under the Career Launch SD section below. 
+
+CAREER LAUNCH SD
+
+statewide activities
+
+The goal of Career Launch SD is to re-engage students in the workforce and invigorate our youth’s excitement regarding opportunities in their own communities and, in turn, meet the ever-rising demand for a skilled workforce in the state of South Dakota. Career Launch works with local school districts and business communities to connect students to the workforce and provide them with firsthand knowledge and experience in their fields of interest. In Spring 2018, Career Launch was piloted in the communities of Brookings, Rapid City, Sioux Falls, and Yankton. In Fall 2018, the program will expand to include Belle Fourche, Douglas, Lead-Deadwood, Meade, New Underwood, and Spearfish.
+The program employees 12 FTEs, including 11 Career Advisors and one Career Program Coordinator. Roughly 65 percent of funding comes from the Department of Education, and the other 35 percent is funded by DLR under the Workforce Training Division.
+Since its inception in January 2018, the Career Launch team has achieved the following:
+•	
+Placed/monitored over 100 student interns
+
+•	
+Found job shadow opportunities for 30 students
+
+•	
+Provided over 100 classroom presentations on soft skills, resume building, mock interviewing, etc.
+
+•	
+Provided one-on-one career advising services to over 350 students
+
+•	
+Provided exposure to 10 industries through classroom presentations from the business community
+
+•	
+Made 27 referrals to WIOA Title I program
+
+•	
+Assisted several 8th grade students in developing their four-year plans
+
+•	
+Hosted career fairs, attended parent nights, connected with workforce development councils
+
+•	
+Made connections with several businesses within each community
+
+•	
+Completed a 165-hour career development course through the National Career Development Association
+
+
+Initial challenges included the lack of a solid framework with which to build the program. The team was tasked with building the program from the ground up, while also immediately jumping in and working with schools, students, businesses, and community organizations. Different school districts also had diverse ideas for the program and the roles of the Career Advisors. 
+The Career Launch team has met and shared information several times to form a solid program. Feedback from students, schools, and the business community is positive. The team is currently building a website that will allow other school districts and local Department of Labor and Regulation offices outside of the pilot communities to build or grow similar programs within their schools and communities. 
+
+RAPID RESPONSE
+
+statewide activities
+
+In PY2017, 17 businesses received Rapid Response events that were attended by nearly 140 employees. During these events several DLR staff presented services available to individuals through job service offices. Information packets were prepared so individuals could take home for reference. If an individual seek assistance, an intake, orientation, eligibility determination, and assessments are completed. An individual is typically enrolled in the WIOA Title III Wagner-Peyser, Title I Adult and Dislocated Worker programs. If the business is certified for Trade Adjustment Assistance (TAA), individuals are also enrolled in TAA. If the individual is referred from the Unemployment Insurance division for Re-employment Services, they are also enrolled to receive these services. The SDWORKS data management system is utilized for these programs, making a job seeker’s transition easy. 
+With a low unemployment rate and small population in South Dakota, word travels fast when a company closes its doors or downsizes. Other businesses typically contact job service offices to reach these newly unemployed individuals. Job service offices assist in hosting job fairs for a company with a sizable layoff. Based on an individual’s situation, training opportunities are discussed and made available based on local job market needs. 
+Businesses reach out to DLR once a decision about downsizing has been made, making it difficult for DLR programming to avert layoffs. However, in PY2017, DLR implemented incumbent worker training with WIOA statewide funding. We are starting small and adjusting our policy as we learn more. The training has allowed us to assist employers with upskilling employees to help businesses remain competitive and individuals employed. More information on incumbent worker training can be found on Page 10.
+
+NATIONAL CAREER READINESS CERTIFICATE
+
+statewide activities
+
+The National Career Readiness Certificate™ (NCRC) is a nationally recognized work skills credential supported by workforce training services. Available to all current and potential job seekers in the state, the NCRC can be a key hiring tool for adults, dislocated workers, youth training program participants, high school students, and incarcerated individuals. Whether in the application, the interview, or the probationary training phase, the NCRC provides a concrete tool all parties (e.g., participants, case managers, employers) can reference in making appropriate workforce decisions.
+DLR also offers KeyTrain®, a skill development curriculum, at no cost to all program participants and job seekers interested in earning an NCRC. The use of this curriculum provides a framework to capitalize on skill strengths and to define potential skill training needs during the employment process. 
+DLR continues to financially support the NCRC program. This allows any job seeker registered in the DLR data management system to prepare and complete the three ACT WorkKeys® Assessments required for the certification: Applied Math, Graphic Literacy, and Workplace Documents. South Dakota’s NCRC scores consistently rank above the national average.
+The NCRC program has grown significantly since its 2009 inception. In addition to serving job seekers across the state through the local offices, developing partnerships with outside agencies has been a key component in expanding the program. 
+A recent partnership with the Department of Corrections has allowed over 400 incarcerated individuals to earn an NCRC in the past year. A six-year partnership with the Department of Education has allowed over 18,000 students the same opportunity. Two of the state’s technical institutions also have utilized the program in various capacities.
+Thanks to an ongoing partnership with the Bureau of Human Resources, most of South Dakota state agencies’ job listings include a reference to the NCRC. These listings provide a model for other hiring personnel to follow when integrating the NCRC tool into their application consideration process.
+To foster a skilled workforce, increasing emphasis has been placed on business education and outreach. Currently, over 700 employers in South Dakota recognize the NCRC in their hiring practices. The focus on business outreach continues as an ongoing effort to meet the state’s workforce needs.
+The NCRC also was a key component of South Dakota Governor Dennis Daugaard’s South Dakota Workforce Initiative (SDWINS) effort. The initial scope of the NCRC involvement in SDWINS was to support delivering the certification to high school students to promote career readiness. The effort has expanded by increasing the number of job seekers attempting the NCRC and educating businesses on the value this certification holds.
+DLR is committed to providing the resources in maintaining the NCRC program, while fulfilling its mission. This obligation provides an effective tool for job seekers, high school students, employers, education, and government leaders to identify and improve the foundational workplace skills found across all employment sectors. 
+
+National Career Readiness Certificates by Level for the South Dakota and the U.S.
+South Dakota 2017 Certificate Totals, WIOA
+
+Bronze
+ Silver
+ Gold
+ Platinum
+ Total
+ 
+Adult
+ 13
+ 18
+ 20
+ 21
+ 72
+ 
+Dislocated Worker
+ 1
+ 2
+ 7
+ 4
+ 14
+ 
+Youth
+ 3
+ 17
+ 7
+ 8
+ 35
+ 
+Total
+ 17
+ 37
+ 34
+ 33
+ 121
+ 
+South Dakota
+ 14.05%
+ 30.58%
+ 28.10%
+ 27.27%
+ 100.00%
+ 
+
+
+
+South Dakota 2017 Certificate Totals, All
+
+Bronze
+ Silver
+ Gold
+ Platinum
+ Total
+ 
+Corrections
+ 86
+ 155
+ 90
+ 71
+ 402
+ 
+DOE
+ 847
+ 1415
+ 1014
+ 693
+ 3969
+ 
+Job seeker
+ 8
+ 28
+ 29
+ 32
+ 97
+ 
+Other
+ 0
+ 6
+ 19
+ 18
+ 43
+ 
+RES
+ 2
+ 7
+ 17
+ 22
+ 48
+ 
+SNAP
+ 0
+ 1
+ 1
+ 2
+ 4
+ 
+TANF
+ 1
+ 5
+ 9
+ 3
+ 18
+ 
+Technical Institute
+ 33
+ 36
+ 18
+ 6
+ 93
+ 
+Veteran
+ 0
+ 1
+ 4
+ 0
+ 5
+ 
+VR
+ 0
+ 0
+ 0
+ 1
+ 1
+ 
+Total
+ 977
+ 1,654
+ 1,201
+ 848
+ 4,680
+ 
+South Dakota 
+  20.88%
+ 35.34%
+ 25.66%
+ 18.12%
+ 100.00%
+ 
+
+
+
+DAKOTA ROOTS
+
+statewide activities
+
+Funding has also assisted in recruiting out-of-state job seekers by personalizing their job searches through Dakota Roots (www.DakotaRoots.com). This worker recruitment initiative continued its 11th year of connecting out-of-state job seekers with in-state career opportunities. In addition to grassroots efforts encouraging current South Dakotans to refer family and friends, a digital media outreach campaign drove traffic to the website. Job advisors assist individuals one-on-one with their job searches and provide moving and housing resources. 
+
+SOFT SKILLS TRAINING
+
+statewide activities
+
+Employers across South Dakota continue to tell DLR their workforce needs soft skills. As a result, DLR brought Bring Your ‘A’ Game to Work, a hands-on soft skills training, to South Dakota. The training is designed to teach foundational behaviors and values in today’s workforce. After completing the program, individuals will understand the long-term benefits of work ethic and set a foundation for personal and professional success. 
+Bring Your ‘A’ Game to Work covers the seven soft skill behaviors determined to be the most important: Attendance, Appearance, Attitude, Ambition, Accountability, Acceptance and Appreciation. Individuals discover these skills through activities and group participation. 
+Following completion of the workshop, individuals are eligible to earn the Certificate of Work Ethic through an online assessment. The assessment requires a 90 percent score to pass. 
+DLR partners with seven providers across the state to deliver the curriculum to program participants and employer referrals. DLR staff have been trained and offer Bring Your ‘A’ Game to school districts across South Dakota in hopes of providing tomorrow’s workforce with these invaluable skills. 
+
+SDWORKS
+
+WIOA
+
+SDWORKS is the state’s largest online jobs database. Job seekers can create a professional profile and resumes and perform customized job searches. 
+The system is not only the state’s jobs database but also the staff’s case management system for DLR program participants. DLR launched the new SDWORKS system with numerous improvements for job seekers, employers, and DLR staff on April 3, 2017. The SDWORKS project overhauled and modernized the management information system (MIS) used by DLR. 
+PY2017 was the first full-year utilization of the new system. It was not without its hiccups, but the dividends are beginning to pay off. The build-up and customization of the system over the past program year, and on-going, have proven to be an exemplary model for delivering services under Wagner-Peyser Employment Service section 7(b). Through 7(b) funding, a special Re-employment and Service Integration grant from USDOL, and the braiding and blending of other funds within WIOA titles, the SDWORKS system continues to improve, expand, and integrate the programs and services DLR and its partners provide. This was a necessary step to end the past separations of program services provided in the legacy system DLR had utilized for more than 15 years and propel DLR and its WIOA partners into the age of WIOA. 
+A positive feature of SDWORKS during PY2017 is the system’s spidering feature. Spidering finds and pulls in external job postings on corporate, hospital, private, and other external job boards. SDWORKS spidering technology brings listings in from select employer job boards (set for South Dakota employers and/or positions found within South Dakota). Spidered jobs can be converted to an internal job order by staff or left as an external job order. The spidering technology brings newly listed jobs into the system. Jobs are removed from SDWORKS when the job is removed from an employer’s post or spidered website. Job orders availablein SDWORKS increase, leading to more choices for job seekers, and an increased exposure and recognition of job openings. 
+Other features the systems offer have provided job seekers, employers, and staff a world of easy-to-use technology and data management. From the Virtual Labor Market Information, self-service job search, employer resume and candidate search, and staff-assistance tools, the possibilities will only continue to grow. Real-time data and report functions are exceptional assistance resources. 
+As SDWORKS continues its build up, its features and outreach to internal and external customers will become  more robust. 
+
+Image of SDWORKS home page. 
+PERFORMANCE & REPORTING
+
+sdworks
+
+Performance Outcomes
+PY2017 performance data reflects DLR’s transition from WIA to the performance measures under WIOA. DLR contracted with Geographic Solutions Inc., to develop a new workforce development information system for South Dakota. This web-based virtual one-stop allows for better case management and coordination of services across multiple programs to meet the common performance measures under WIOA. 
+As a single-area state, South Dakota already works closely and maintains data sharing agreements with other WIOA partner programs in the state. The SDWORKS data collection system ensures consistent reporting across programs while providing its job seekers and employers greater access to services. 
+SDWORKS is inclusive of Title I and Wagner-Peyser programs, so common exit applies for adult, dislocated worker, youth and Wagner-Peyser and occurs when the participant has not received services from these programs. 
+This new information system and the USDOL exercising its transition authority to suspend the sanction process until two years of complete data is available allows DLR to analyze its performance figures to determine areas for improvement. Analysis of performance levels identifies key issues such as correct data entry, training needs for staff, and determining baseline indicators for Measurable Skills Gains and Median Earnings for Youth. Training efforts include eliminating duplicative step to co-enroll Wagner-Peyser participants into Title I programs, accurate data entry and maximizing funding dollars to tailor services to each individual. As staff become more comfortable with the functionality and features of the new system, performance indicators, such as Credential Attainment and Measurable Skills Gain, should improve thanks to better data management practices.
+South Dakota met or exceeded its goals for employment after the second and fourth quarters for Wagner-Peyser, Title I Adult, Dislocated Worker and Youth programs. 
+Effectiveness in Serving Employers
+DLR considered the three measures proposed by the USDOL for the performance indicator pilot and chose the two which best match DLR’s mission to strengthen partnerships with employers by emphasizing long-term, ongoing service delivery: Participant Retention with the Same Employer and Repeat Business Customers. 
+Due to South Dakota’s small population, most business establishments employ fewer than ten people and may not require DLR staff-assisted services. As a result, the Overall Employer Penetration Rate measure is not the best indicator to determine effectiveness in serving employers. Job service staff received training on business services with an emphasis on outreach to engage employer customers in overall workforce development goals, especially work-based learning programs such as work experiences, on-the-job trainings, job shadows and apprenticeships. 
+Satisfaction Survey Rates
+As in previous years, South Dakota exceeded its negotiated goal in working with Most-In-Need participants due to significant outreach efforts to our Native American population and others in areas of persistent unemployment. South Dakota had a higher response rate for both the participant and host agency customer satisfaction surveys than the national average for PY2017. The feedback provided from these surveys will help identify participant and host agency expectations and areas for improvement in meeting program performance goals.
+
+Charts of Employment Rates Second and Fourth Quarter after Exits
+Chart of Customer Satisfaction Survey Response
+COST
+
+sdworks
+
+In PY2017, 11,523 individuals utilized WIOA services to some level. Funds dedicated to serving adults and dislocated workers through DLR services as well as youth direct service totaled $4,197,807. This indicates an average cost per individual receiving any level of service was $364. Historically, South Dakota has a respectably low cost per participant. 
+
+State Performance Report Image
+RESEARCH & EVALUATION
+
+WIOA
+
+As a result of the evaluations identified in section WIOA §116(e), the South Dakota Department of Labor and Regulation recognized the need to identify job service office performance that can be used to identify trends, analyze staffing needs, and focus technical assistance efforts. As a result, WIOA policy 6.15, Job Service Office Performance, was drafted (see Appendix A). It will take time to develop baseline information to have valid statistics we can draw conclusions from. These efforts will be coordinated with other WIOA core programs and the Workforce Development Council (WDC) representing various state agencies by sharing the performance reports during Core Partner Alignment Consortium meetings and annually at the WDC meetings.
+In reviewing data, DLR recognized that youth engagement in the workforce in South Dakota was declining. As a result we utilized statewide funding to develop a Youth Outreach campaign, Career Launch SD, and utilized statewide funding to partner with the South Dakota Department of Education to increase career opportunities in South Dakota high schools. 
+To improve our processes and quality of services, DLR has embarked on a LEAN journey and implemented a customer satisfaction survey in PY2017. More information follows.
+
+OPTIMIZE DLR
+
+research & evaluation
+
+In January of 2018, DLR began introducing Lean concepts to staff. Designed to continuously improve processes, it increases our capacity to serve and improve services provided. Lean concepts include empowering staff to continuously look for opportunities to improve daily processes. Major process improvements are accomplished through Kaizen events in which a team of employees work proactively to improve a process. Improvements reduce waste, increase efficiency, save money, and increase customer satisfaction. Implementation begins immediately after the event. 
+DLR has facilitated two Kaizen events focused on improving WIOA processes. The first event focused on the WIOA voucher process. The goal was to improve the efficiency of paying vouchers by reducing rework and eliminate non-value-added tasks. The team created 49 solutions. Prior to the event, the average monthly error rate for vouchers submitted to fiscal staff was 42 percent. After implementing Kaizen improvements, the average monthly error rate was reduced to 6 percent. The second Kaizen event focused on the One-Stop enrollment process. The goal was to reduce the time it takes to enroll an individual by 33 percent and increase the number of participants enrolled in Title I services. The 39 solutions generated not only will reduce enrollment time, but also will improve staff confidence and knowledge in choosing services for which participants qualify. The team is currently working on the implementation of these improvements. 
+While DLR is currently in the beginning stages of introducing and implementing continuous improvement concepts, it is quickly spreading department wide. Our goal is to create a culture of continuous improvement focused on all processes. Staff will look for opportunities to improve the WIOA services we provide. Future WIOA Lean projects focus on streamlining processes to eliminate duplication and standardize the process, onboarding and training specific to job service offices, subrecipient oversight and improving the overall delivery of service. 
+
+CUSTOMER SATISFACTION
+
+research & evaluation
+
+In PY2017, DLR used Survey Monkey to develop and conduct two surveys, one for job seekers and another for businesses. The job seeker survey was sent quarterly to participants who exited the Wagner-Peyser program the previous quarter. South Dakota requires all programs that use our data management system, SDWORKS, enroll their participants in Wagner-Peyser. Thus, this population provides feedback on all programs. Employers are surveyed annually based on those who received services in the previous year. While our response rate has averaged around 2.25% (1,045 responses to 45,561 surveys emailed) for participants and 4.2% (203 responses to 4,894 surveys emailed) for employers, we receive more feedback in a more efficient manner than our previous method of having staff call customers. 
+Results are shared with job service office managers, One Stop operators, division directors and program specialists as they implement programs and provider services. During One Stop Center Certifications, surveys are reviewed by the manager and review team. 
+
+
+WORKFORCE INNOVATION AND OPPORTUNITY ACT
+
+WIOA
+
+Annual Statewide Performance Report
+Appendix A
+WIOA policy 6.15 – Job Service Office Performance
+
+DLR Logo
+
+JOB SERVICE OFFICE PERFORMANCE 
+
+DLR will collect and report data for each job service office quarterly. 
+
+DATA COLLECTION  
+The following performance reports will be gathered on a quarterly basis and reported to the Directors of Administrative Services, Employment Services, Workforce Training, and One-Stop Operator. This information will be shared with job service managers and Labor Program Specialists as appropriate. Starting January 1, 2019 and beginning with data on July 1, 2018, reports will be issued within 60 days from the end of each quarter.  
+
+After each quarter the Employment Services Division will be responsible for compiling the data for the number of participants per program and the performance indicators outlined in WIOA section 116 per office. The Administrative Services Division will be responsible for compiling a spreadsheet that identifies the caseload per FTE and per participant cost for each office. 
+
+Performance Reports: 
+•Job Service office FTE per program divided by the number of participants per program.
+
+•Direct cost per participant (meaning training, work experience, support service, and youth incentive costs asappropriate) per Job Service office.
+
+•Performance indicators outlined in WIOA section 116 per local office.
+
+
+
+RESULTS  
+This data will provide insight into trends and identification of training needs.  Results will be utilized in the One-Stop certification process, in staffing discussion by Directors as openings come available in the job service offices, by Labor Program Specialists to identify technical assistance needs, and to assist managers in guiding and developing the talent in their office.  
+
+SDDLR Policy §6.15 
+January 1, 2019 
+WIOA Section 116(e) 
+
+
+
+
+
+
+
